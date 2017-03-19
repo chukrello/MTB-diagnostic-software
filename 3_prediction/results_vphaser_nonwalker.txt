@@ -1,0 +1,3054 @@
+SAMEA1015920
+snp embB 406 G A EMB Resistant
+snp embA -12 C T EMB Resistant
+snp eis -10 G A KAN Resistant
+snp pncA 54 P Q PZA Resistant
+snp katG 315 S T INH Resistant
+snp rpsL 43 K R SM Resistant
+snp rpoB 450 S L RIF Resistant
+SAMEA1015921
+SAMEA1015922
+snp gyrA 94 D A MOX Resistant
+snp gyrA 94 D A OFX Resistant
+SAMEA1015923
+SAMEA1015925
+SAMEA1015927
+SAMEA1015929
+SAMEA1015931
+SAMEA1015932
+SAMEA1015933
+SAMEA1015935
+SAMEA1015936
+SAMEA1015937
+SAMEA1015939
+SAMEA1015940
+SAMEA1015941
+SAMEA1015942
+snp rpoB 761 E D RIF Uncharacterised
+SAMEA1015943
+SAMEA1015944
+SAMEA1015946
+SAMEA1015947
+SAMEA1015949
+SAMEA1015951
+SAMEA1015954
+SAMEA1015957
+SAMEA1015958
+SAMEA1015959
+SAMEA1015960
+SAMEA1015961
+SAMEA1015962
+SAMEA1015968
+snp embB 406 G A EMB Resistant
+snp embB 306 M V EMB Resistant
+snp embA -12 C T EMB Resistant
+snp eis -12 C T KAN Uncharacterised
+snp eis -10 G A KAN Resistant
+snp pncA 54 P Q PZA Resistant
+SAMEA1015969
+SAMEA1015971
+SAMEA1015973
+SAMEA1015975
+SAMEA1015977
+snp eis -12 C T KAN Uncharacterised
+SAMEA1015978
+SAMEA1015979
+snp pncA 10 Q * PZA Resistant
+snp gyrA 94 D G CIP Resistant
+snp gyrA 94 D G MOX Resistant
+snp gyrA 94 D G OFX Resistant
+SAMEA1015980
+SAMEA1015981
+SAMEA1015982
+SAMEA1015985
+SAMEA1015986
+SAMEA1015987
+SAMEA1015988
+SAMEA1015989
+SAMEA1015990
+SAMEA1015991
+SAMEA1015994
+SAMEA1015995
+SAMEA1015996
+SAMEA1015997
+snp embB 306 M I EMB Resistant
+SAMEA1015998
+SAMEA1015999
+SAMEA1016000
+SAMEA1016002
+SAMEA1016004
+SAMEA1016005
+snp eis -10 G A KAN Resistant
+SAMEA1016006
+snp gyrA 94 D G CIP Resistant
+snp gyrA 94 D G MOX Resistant
+snp gyrA 94 D G OFX Resistant
+snp gyrA 90 A V CIP Uncharacterised
+snp gyrA 90 A V MOX Resistant
+snp gyrA 90 A V OFX Resistant
+SAMEA1016007
+SAMEA1016008
+SAMEA1016010
+snp pncA 10 Q P PZA Resistant
+SAMEA1016011
+SAMEA1016013
+snp embB 354 D A EMB Resistant
+snp rrs 517 C T AK Benign
+snp rrs 517 C T CAP Benign
+snp rrs 517 C T KAN Resistant
+snp rrs 517 C T SM Resistant
+snp rpsL 43 K R SM Resistant
+snp rpoB 761 E D RIF Uncharacterised
+snp rpoB 450 S L RIF Resistant
+SAMEA1016014
+SAMEA1016015
+SAMEA1016016
+SAMEA1016018
+SAMEA1016019
+SAMEA1016021
+SAMEA1016023
+SAMEA1016024
+SAMEA1016025
+SAMEA1016026
+snp embB 497 Q R EMB Resistant
+snp pncA -11 A G PZA Resistant
+snp rpoB 761 E D RIF Uncharacterised
+SAMEA1016028
+SAMEA1016029
+SAMEA1016030
+SAMEA1016033
+SAMEA1016034
+SAMEA1016037
+SAMEA1016038
+SAMEA1016039
+SAMEA1016042
+SAMEA1016043
+SAMEA1016044
+SAMEA1016045
+SAMEA1016046
+snp rpsL 43 K R SM Resistant
+snp rpoB 450 S L RIF Resistant
+SAMEA1016047
+SAMEA1016051
+SAMEA1016052
+SAMEA1016053
+SAMEA1016054
+SAMEA1016055
+SAMEA1016056
+SAMEA1016057
+SAMEA1016060
+snp embB 354 D A EMB Resistant
+snp embB 306 M V EMB Resistant
+snp rrs 517 C T AK Benign
+snp rrs 517 C T CAP Benign
+snp rrs 517 C T KAN Resistant
+snp rrs 517 C T SM Resistant
+snp rpsL 43 K R SM Resistant
+snp rpoB 761 E D RIF Uncharacterised
+SAMEA1016061
+SAMEA1016062
+SAMEA1016063
+SAMEA1016065
+SAMEA1016066
+SAMEA1016067
+SAMEA1016068
+snp rpsL 43 K R SM Resistant
+snp rpoB 761 E D RIF Uncharacterised
+SAMEA1016070
+SAMEA1016071
+snp gyrA 94 D G CIP Resistant
+snp gyrA 94 D G MOX Resistant
+snp gyrA 94 D G OFX Resistant
+snp gyrA 90 A V CIP Uncharacterised
+snp gyrA 90 A V MOX Resistant
+snp gyrA 90 A V OFX Resistant
+SAMEA1016072
+SAMEA1016073
+SAMEA1016074
+SAMEA1016075
+SAMEA1016077
+SAMEA1016078
+SAMEA1016079
+snp embB 306 M V EMB Resistant
+snp fabG1 -15 C T INH Resistant
+snp rpsL 43 K R SM Resistant
+snp rpoB 450 S L RIF Resistant
+SAMEA1016080
+SAMEA1016081
+SAMEA1016082
+SAMEA1016083
+SAMEA1016084
+SAMEA1016086
+SAMEA1016087
+SAMEA1016088
+SAMEA1016089
+SAMEA1016090
+SAMEA1016091
+SAMEA1016092
+snp embB 406 G A EMB Resistant
+snp embB 306 M V EMB Resistant
+snp eis -12 C T KAN Uncharacterised
+snp eis -10 G A KAN Resistant
+snp gyrA 90 A V CIP Uncharacterised
+snp gyrA 90 A V MOX Resistant
+snp gyrA 90 A V OFX Resistant
+SAMEA1016093
+SAMEA1016096
+snp embB 306 M V EMB Resistant
+snp pncA 76 T P PZA Benign
+snp katG 315 S T INH Resistant
+snp rrs 1401 A G AK Resistant
+snp rrs 1401 A G CAP Resistant
+snp rrs 1401 A G KAN Resistant
+snp rrs 1401 A G SM Uncharacterised
+snp rpsL 88 K R SM Resistant
+snp rpoB 430 L P RIF Resistant
+SAMEA1016097
+SAMEA1016098
+SAMEA1016099
+SAMEA1016100
+SAMEA1016101
+SAMEA1016103
+SAMEA1016104
+SAMEA1016105
+SAMEA1016106
+SAMEA1016109
+SAMEA1016111
+snp rpsL 88 K R SM Resistant
+snp rpoB 450 S L RIF Resistant
+SAMEA1016112
+SAMEA1016113
+snp pncA -11 A G PZA Resistant
+SAMEA1016114
+SAMEA1016116
+SAMEA1016117
+snp pncA 57 H R PZA Resistant
+SAMEA1016118
+snp embB 306 M V EMB Resistant
+snp gyrA 94 D G CIP Resistant
+snp gyrA 94 D G MOX Resistant
+snp gyrA 94 D G OFX Resistant
+snp gyrA 94 D A MOX Resistant
+snp gyrA 94 D A OFX Resistant
+snp gyrA 94 D H CIP Benign
+snp gyrA 94 D H MOX Resistant
+snp gyrA 94 D H OFX Resistant
+snp gyrA 90 A V CIP Uncharacterised
+snp gyrA 90 A V MOX Resistant
+snp gyrA 90 A V OFX Resistant
+SAMEA1016119
+snp embB 406 G S EMB Resistant
+snp embB 306 M V EMB Resistant
+snp pncA 12 D A PZA Resistant
+snp rrs 1401 A G AK Resistant
+snp rrs 1401 A G CAP Resistant
+snp rrs 1401 A G KAN Resistant
+snp rrs 1401 A G SM Uncharacterised
+SAMEA1016120
+SAMEA1016122
+SAMEA1016123
+SAMEA1016124
+SAMEA1016126
+SAMEA1016127
+SAMEA1016128
+SAMEA1016129
+SAMEA1016130
+SAMEA1016134
+SAMEA1016137
+SAMEA1016138
+SAMEA1016139
+snp embB 306 M V EMB Resistant
+snp katG 315 S T INH Resistant
+snp rpoB 450 S L RIF Resistant
+SAMEA1016140
+SAMEA1016141
+snp embA -16 C T EMB Resistant
+snp eis -10 G A KAN Resistant
+snp katG -85 C T INH Benign
+snp rpsA 432 M T PZA Benign
+snp fabG1 -15 C T INH Resistant
+snp rrs 514 A C AK Uncharacterised
+snp rrs 514 A C CAP Uncharacterised
+snp rrs 514 A C KAN Uncharacterised
+snp rrs 514 A C SM Resistant
+snp rpsL 43 K R SM Resistant
+snp rpoB 450 S L RIF Resistant
+snp rpoB 445 H D RIF Resistant
+snp iniA 501 S W EMB Benign
+SAMEA1016142
+SAMEA1016143
+SAMEA1016144
+SAMEA1016145
+SAMEA1016146
+SAMEA1016147
+SAMEA1016148
+SAMEA1016151
+SAMEA1016152
+SAMEA1016153
+SAMEA1016157
+snp pncA -12 T C PZA Resistant
+SAMEA1016158
+SAMEA1016159
+SAMEA1016160
+SAMEA1016161
+SAMEA1016162
+SAMEA1016163
+SAMEA1016165
+SAMEA1016166
+SAMEA1016167
+SAMEA1016169
+snp embB 406 G A EMB Resistant
+snp embB 354 D A EMB Resistant
+snp eis -10 G A KAN Resistant
+snp pncA 180 V G PZA Resistant
+snp rrs 517 C T AK Benign
+snp rrs 517 C T CAP Benign
+snp rrs 517 C T KAN Resistant
+snp rrs 517 C T SM Resistant
+snp rpsL 43 K R SM Resistant
+snp rpoB 761 E D RIF Uncharacterised
+SAMEA1016171
+SAMEA1016172
+SAMEA1016174
+SAMEA1016175
+SAMEA1016176
+SAMEA1016178
+SAMEA1016179
+SAMEA1016181
+SAMEA1016182
+SAMEA1016184
+SAMEA1016185
+snp pncA -11 A G PZA Resistant
+snp pncA 97 G D PZA Resistant
+SAMEA1016186
+SAMEA1016187
+SAMEA1016189
+SAMEA1016190
+SAMEA1016191
+SAMEA1016193
+SAMEA1016194
+snp embB 354 D A EMB Resistant
+SAMEA1016196
+SAMEA1016197
+SAMEA1016198
+SAMEA1016200
+SAMEA1016201
+SAMEA1016202
+snp gyrA 94 D G CIP Resistant
+snp gyrA 94 D G MOX Resistant
+snp gyrA 94 D G OFX Resistant
+SAMEA1403548
+snp embB 306 M V EMB Resistant
+snp eis -12 C T KAN Uncharacterised
+snp fabG1 -15 C T INH Resistant
+snp rrs 517 C T AK Benign
+snp rrs 517 C T CAP Benign
+snp rrs 517 C T KAN Resistant
+snp rrs 517 C T SM Resistant
+snp rpsL 88 K R SM Resistant
+SAMEA1403549
+SAMEA1403550
+SAMEA1403551
+SAMEA1403552
+SAMEA1403553
+SAMEA1403554
+SAMEA1403555
+SAMEA1403556
+snp embB 354 D A EMB Resistant
+snp katG 315 S T INH Resistant
+SAMEA1403557
+SAMEA1403558
+SAMEA1403559
+SAMEA1403560
+SAMEA1403561
+SAMEA1403562
+SAMEA1403563
+SAMEA1403564
+SAMEA1403565
+SAMEA1403566
+SAMEA1403567
+SAMEA1403568
+snp embB 306 M I EMB Resistant
+snp rrs 1401 A G AK Resistant
+snp rrs 1401 A G CAP Resistant
+snp rrs 1401 A G KAN Resistant
+snp rrs 1401 A G SM Uncharacterised
+snp rpsL 43 K R SM Resistant
+SAMEA1403569
+snp pncA 51 H R PZA Benign
+snp rpoB 452 L P RIF Resistant
+snp rpoB 450 S L RIF Resistant
+snp rpoB 445 H N RIF Resistant
+SAMEA1403570
+SAMEA1403571
+SAMEA1403572
+SAMEA1403573
+SAMEA1403574
+SAMEA1403575
+SAMEA1403576
+SAMEA1403577
+SAMEA1403578
+SAMEA1403579
+SAMEA1403580
+SAMEA1403581
+snp embB 306 M I EMB Resistant
+snp katG -85 C T INH Benign
+snp katG 315 S T INH Resistant
+snp rpsA 432 M T PZA Benign
+snp fabG1 -15 C T INH Resistant
+SAMEA1403582
+SAMEA1403583
+SAMEA1403584
+SAMEA1403585
+SAMEA1403586
+SAMEA1403587
+SAMEA1403588
+SAMEA1403589
+SAMEA1403590
+snp embB 406 G A EMB Resistant
+snp embB 354 D A EMB Resistant
+snp rpsL 43 K R SM Resistant
+snp rpoB 761 E D RIF Uncharacterised
+SAMEA1403591
+snp rpoB 761 E D RIF Uncharacterised
+snp rpoB 450 S L RIF Resistant
+SAMEA1403592
+SAMEA1403593
+SAMEA1403594
+SAMEA1403595
+SAMEA1403596
+snp katG 315 S T INH Resistant
+SAMEA1403597
+SAMEA1403598
+SAMEA1403599
+SAMEA1403600
+SAMEA1403601
+snp katG 315 S T INH Resistant
+snp rpsL 43 K R SM Resistant
+SAMEA1403602
+SAMEA1403603
+SAMEA1403604
+SAMEA1403605
+SAMEA1403606
+SAMEA1403607
+SAMEA1403608
+SAMEA1403609
+SAMEA1403610
+SAMEA1403611
+SAMEA1403612
+SAMEA1403613
+SAMEA1403614
+SAMEA1403615
+snp embB 406 G D EMB Resistant
+snp embB 306 M V EMB Resistant
+snp eis -12 C T KAN Uncharacterised
+snp rpoB 450 S L RIF Resistant
+SAMEA1403616
+snp katG 315 S T INH Resistant
+snp rpsL 43 K R SM Resistant
+SAMEA1403617
+SAMEA1403618
+SAMEA1403619
+SAMEA1403620
+SAMEA1403621
+SAMEA1403622
+SAMEA1403623
+snp gyrA 94 D A MOX Resistant
+snp gyrA 94 D A OFX Resistant
+snp gyrA 94 D G CIP Resistant
+snp gyrA 94 D G MOX Resistant
+snp gyrA 94 D G OFX Resistant
+snp gyrA 90 A V CIP Uncharacterised
+snp gyrA 90 A V MOX Resistant
+snp gyrA 90 A V OFX Resistant
+SAMEA1403624
+snp katG 315 S T INH Resistant
+SAMEA1403625
+SAMEA1403626
+SAMEA1403627
+SAMEA1403628
+SAMEA1403629
+SAMEA1403630
+SAMEA1403631
+SAMEA1403632
+SAMEA1403633
+SAMEA1403634
+snp rrs 1507 C T AK Uncharacterised
+snp rrs 1507 C T CAP Benign
+snp rrs 1507 C T KAN Uncharacterised
+snp rrs 1507 C T SM Uncharacterised
+snp rrs 1050 C T AK Benign
+snp rrs 1050 C T CAP Benign
+snp rrs 1050 C T KAN Benign
+snp rrs 1050 C T SM Benign
+snp rrs 771 G A AK Benign
+snp rrs 771 G A CAP Benign
+snp rrs 771 G A KAN Benign
+snp rrs 771 G A SM Uncharacterised
+snp rrs 753 A C AK Uncharacterised
+snp rrs 753 A C CAP Benign
+snp rrs 753 A C KAN Uncharacterised
+snp rrs 753 A C SM Uncharacterised
+snp rrs 736 A T AK Uncharacterised
+snp rrs 736 A T CAP Benign
+snp rrs 736 A T KAN Uncharacterised
+snp rrs 736 A T SM Uncharacterised
+snp rrs 728 C T AK Benign
+snp rrs 728 C T CAP Benign
+snp rrs 728 C T KAN Benign
+snp rrs 728 C T SM Uncharacterised
+snp rrs 726 G C AK Uncharacterised
+snp rrs 726 G C CAP Benign
+snp rrs 726 G C KAN Uncharacterised
+snp rrs 726 G C SM Uncharacterised
+snp rrs 712 G A AK Uncharacterised
+snp rrs 712 G A CAP Benign
+snp rrs 712 G A KAN Uncharacterised
+snp rrs 712 G A SM Uncharacterised
+SAMEA1403635
+SAMEA1403636
+snp embB 354 D A EMB Resistant
+snp katG 315 S T INH Resistant
+snp rrs 1401 A G AK Resistant
+snp rrs 1401 A G CAP Resistant
+snp rrs 1401 A G KAN Resistant
+snp rrs 1401 A G SM Uncharacterised
+snp rrs 517 C T AK Benign
+snp rrs 517 C T CAP Benign
+snp rrs 517 C T KAN Resistant
+snp rrs 517 C T SM Resistant
+snp rpoB 761 E D RIF Uncharacterised
+snp rpoB 450 S L RIF Resistant
+SAMEA1403637
+SAMEA1403638
+snp gyrA 94 D G CIP Resistant
+snp gyrA 94 D G MOX Resistant
+snp gyrA 94 D G OFX Resistant
+snp gyrA 90 A V CIP Uncharacterised
+snp gyrA 90 A V MOX Resistant
+snp gyrA 90 A V OFX Resistant
+SAMEA1403639
+snp katG 315 S T INH Resistant
+snp rrs 771 G A AK Benign
+snp rrs 771 G A CAP Benign
+snp rrs 771 G A KAN Benign
+snp rrs 771 G A SM Uncharacterised
+snp rrs 753 A C AK Uncharacterised
+snp rrs 753 A C CAP Benign
+snp rrs 753 A C KAN Uncharacterised
+snp rrs 753 A C SM Uncharacterised
+snp rrs 736 A T AK Uncharacterised
+snp rrs 736 A T CAP Benign
+snp rrs 736 A T KAN Uncharacterised
+snp rrs 736 A T SM Uncharacterised
+snp rrs 734 G T AK Uncharacterised
+snp rrs 734 G T CAP Benign
+snp rrs 734 G T KAN Uncharacterised
+snp rrs 734 G T SM Uncharacterised
+snp rrs 728 C T AK Benign
+snp rrs 728 C T CAP Benign
+snp rrs 728 C T KAN Benign
+snp rrs 728 C T SM Uncharacterised
+snp rrs 726 G C AK Uncharacterised
+snp rrs 726 G C CAP Benign
+snp rrs 726 G C KAN Uncharacterised
+snp rrs 726 G C SM Uncharacterised
+snp rpoB 450 S L RIF Resistant
+SAMEA1403640
+SAMEA1403641
+SAMEA1403642
+SAMEA1403643
+SAMEA1403644
+SAMEA1403645
+SAMEA1403646
+snp eis -10 G A KAN Resistant
+SAMEA1403647
+SAMEA1403648
+snp pncA 48 K E PZA Resistant
+SAMEA1403649
+SAMEA1403650
+SAMEA1403651
+SAMEA1403652
+SAMEA1403653
+SAMEA1403654
+SAMEA1403655
+SAMEA1403656
+SAMEA1403657
+snp gyrA 94 D G CIP Resistant
+snp gyrA 94 D G MOX Resistant
+snp gyrA 94 D G OFX Resistant
+snp gyrA 90 A V CIP Uncharacterised
+snp gyrA 90 A V MOX Resistant
+snp gyrA 90 A V OFX Resistant
+SAMEA1403658
+SAMEA1403659
+SAMEA1403660
+SAMEA1403661
+SAMEA1403662
+snp embB 497 Q K EMB Resistant
+SAMEA1403663
+SAMEA1403664
+SAMEA1403665
+SAMEA1403666
+SAMEA1403667
+snp embB 306 M V EMB Resistant
+snp rpoB 450 S L RIF Resistant
+SAMEA1403668
+SAMEA1403669
+SAMEA1403670
+SAMEA1403671
+snp katG -85 C T INH Benign
+snp rpsA 432 M T PZA Benign
+SAMEA1403672
+SAMEA1403673
+SAMEA1403674
+snp embB 406 G A EMB Resistant
+snp embB 306 M I EMB Resistant
+snp eis -10 G A KAN Resistant
+snp pncA 47 T A PZA Resistant
+snp katG -85 C T INH Benign
+snp rpsA 432 M T PZA Benign
+snp fabG1 -15 C T INH Resistant
+snp rrs 1401 A G AK Resistant
+snp rrs 1401 A G CAP Resistant
+snp rrs 1401 A G KAN Resistant
+snp rrs 1401 A G SM Uncharacterised
+snp rrs 514 A C AK Uncharacterised
+snp rrs 514 A C CAP Uncharacterised
+snp rrs 514 A C KAN Uncharacterised
+snp rrs 514 A C SM Resistant
+snp rpsL 43 K R SM Resistant
+snp rpoB 450 S L RIF Resistant
+snp rpoB 435 D V RIF Resistant
+snp iniA 501 S W EMB Benign
+SAMEA1403675
+SAMEA1403676
+SAMEA1403677
+SAMEA1403678
+SAMEA1403679
+SAMEA1403680
+SAMEA1403681
+SAMEA1403682
+SAMEA1403683
+SAMEA1403684
+SAMEA1403685
+SAMEA1403686
+SAMEA1403687
+SAMEA1403688
+SAMEA1403689
+SAMEA1403690
+SAMEA1403691
+SAMEA1403692
+SAMEA1403693
+SAMEA1403694
+SAMEA1403695
+SAMEA1403696
+SAMEA1403697
+SAMEA1403698
+SAMEA1403699
+SAMEA1403700
+SAMEA1403701
+SAMEA1403702
+SAMEA1403703
+SAMEA1403704
+SAMEA1403705
+SAMEA1403706
+SAMEA1403707
+SAMEA1403708
+SAMEA1403709
+SAMEA1403710
+SAMEA1403711
+SAMEA1403712
+SAMEA1403713
+SAMEA1403714
+snp embB 406 G D EMB Resistant
+SAMEA1403715
+snp rpoB 445 H D RIF Resistant
+SAMEA1403716
+SAMEA1403717
+snp rrs 517 C T AK Benign
+snp rrs 517 C T CAP Benign
+snp rrs 517 C T KAN Resistant
+snp rrs 517 C T SM Resistant
+SAMEA1403718
+SAMEA1403719
+SAMEA1403720
+SAMEA1403721
+SAMEA1403722
+SAMEA1403723
+SAMEA1403724
+snp eis -12 C T KAN Uncharacterised
+snp rpoB 450 S L RIF Resistant
+snp rpoB 435 D V RIF Resistant
+SAMEA1403725
+SAMEA1403726
+SAMEA1403727
+SAMEA1403728
+snp rpsL 43 K R SM Resistant
+SAMEA1403729
+SAMEA1403730
+SAMEA1403731
+SAMEA1403732
+SAMEA1403733
+SAMEA1403734
+SAMEA1403735
+SAMEA1403736
+SAMEA1403737
+snp katG 315 S T INH Resistant
+SAMEA1403738
+SAMEA1403739
+SAMEA1403740
+SAMEA1403741
+SAMEA1403742
+snp rrs 517 C T AK Benign
+snp rrs 517 C T CAP Benign
+snp rrs 517 C T KAN Resistant
+snp rrs 517 C T SM Resistant
+snp rpoB 761 E D RIF Uncharacterised
+SAMEA1403743
+SAMEA1403744
+SAMEA1403745
+snp katG 315 S T INH Resistant
+snp rpsL 43 K R SM Resistant
+snp rpoB 450 S L RIF Resistant
+snp gyrA 90 A V CIP Uncharacterised
+snp gyrA 90 A V MOX Resistant
+snp gyrA 90 A V OFX Resistant
+SAMEA1403746
+SAMEA1403747
+snp rpoB 761 E D RIF Uncharacterised
+snp rpoB 450 S L RIF Resistant
+SAMEA1403748
+snp ahpC -72 C T INH Resistant
+snp fabG1 -15 C T INH Resistant
+snp rpoB 450 S L RIF Resistant
+SAMEA1403749
+SAMEA1403750
+SAMEA1403751
+snp embB 497 Q K EMB Resistant
+snp rpoB 450 S L RIF Resistant
+SAMEA1403752
+SAMEA1403753
+SAMEA1403754
+SAMEA1403755
+SAMEA1403756
+SAMEA1403757
+SAMEA1403758
+snp gyrA 94 D G CIP Resistant
+snp gyrA 94 D G MOX Resistant
+snp gyrA 94 D G OFX Resistant
+snp gyrA 90 A V CIP Uncharacterised
+snp gyrA 90 A V MOX Resistant
+snp gyrA 90 A V OFX Resistant
+SAMEA1403759
+SAMEA1403760
+SAMEA1403761
+SAMEA1403762
+SAMEA1403763
+SAMEA1403764
+SAMEA1403765
+snp rrs 517 C T AK Benign
+snp rrs 517 C T CAP Benign
+snp rrs 517 C T KAN Resistant
+snp rrs 517 C T SM Resistant
+snp rpoB 450 S L RIF Resistant
+snp iniA 501 S W EMB Benign
+SAMEA1403766
+SAMEA1403767
+SAMEA1403768
+SAMEA1403769
+snp gyrA 91 S P CIP Resistant
+snp gyrA 91 S P MOX Resistant
+snp gyrA 91 S P OFX Resistant
+SAMEA1403770
+SAMEA1403771
+SAMEA1403772
+snp embB 406 G S EMB Resistant
+snp embB 306 M V EMB Resistant
+snp embA -8 C T EMB Uncharacterised
+snp eis -10 G A KAN Resistant
+snp katG -85 C T INH Benign
+snp rpsA 432 M T PZA Benign
+snp fabG1 -15 C T INH Resistant
+snp rrs 514 A C AK Uncharacterised
+snp rrs 514 A C CAP Uncharacterised
+snp rrs 514 A C KAN Uncharacterised
+snp rrs 514 A C SM Resistant
+snp rpoB 450 S L RIF Resistant
+snp rpoB 445 H Y RIF Resistant
+snp iniA 501 S W EMB Benign
+SAMEA1403773
+SAMEA1403774
+SAMEA1403775
+snp katG -85 C T INH Benign
+snp katG 315 S T INH Resistant
+snp rpsA 432 M T PZA Benign
+snp fabG1 -15 C T INH Resistant
+snp rpoB 450 S L RIF Resistant
+snp iniA 501 S W EMB Benign
+SAMEA1403776
+SAMEA1403777
+SAMEA1403778
+SAMEA1403779
+snp embB 306 M I EMB Resistant
+snp fabG1 -15 C T INH Resistant
+snp rpsL 43 K R SM Resistant
+snp rpoB 450 S L RIF Resistant
+snp rpoB 445 H L RIF Resistant
+snp gyrA 94 D A MOX Resistant
+snp gyrA 94 D A OFX Resistant
+SAMEA1403780
+SAMEA1403781
+SAMEA1403782
+SAMEA1403783
+snp embB 306 M I EMB Resistant
+snp rpoB 450 S L RIF Resistant
+snp gyrA 578 R Q OFX Benign
+SAMEA1403784
+snp gyrA 90 A V CIP Uncharacterised
+snp gyrA 90 A V MOX Resistant
+snp gyrA 90 A V OFX Resistant
+SAMEA1403785
+SAMEA1403786
+SAMEA1403787
+SAMEA1403788
+snp embB 354 D A EMB Resistant
+snp embB 306 M I EMB Resistant
+snp fabG1 -8 T A INH Uncharacterised
+snp rrs 517 C T AK Benign
+snp rrs 517 C T CAP Benign
+snp rrs 517 C T KAN Resistant
+snp rrs 517 C T SM Resistant
+snp rpoB 761 E D RIF Uncharacterised
+snp rpoB 450 S L RIF Resistant
+snp rpoB 435 D Y RIF Benign
+SAMEA1403789
+SAMEA1403790
+SAMEA1403791
+SAMEA1403792
+SAMEA1403793
+SAMEA1403794
+SAMEA1403795
+SAMEA1403796
+SAMEA1403797
+SAMEA1403798
+SAMEA1403799
+SAMEA1403800
+SAMEA1403801
+SAMEA1403802
+snp rrs 1507 C T AK Uncharacterised
+snp rrs 1507 C T CAP Benign
+snp rrs 1507 C T KAN Uncharacterised
+snp rrs 1507 C T SM Uncharacterised
+snp rrs 771 G A AK Benign
+snp rrs 771 G A CAP Benign
+snp rrs 771 G A KAN Benign
+snp rrs 771 G A SM Uncharacterised
+snp rrs 753 A C AK Uncharacterised
+snp rrs 753 A C CAP Benign
+snp rrs 753 A C KAN Uncharacterised
+snp rrs 753 A C SM Uncharacterised
+snp rrs 736 A T AK Uncharacterised
+snp rrs 736 A T CAP Benign
+snp rrs 736 A T KAN Uncharacterised
+snp rrs 736 A T SM Uncharacterised
+SAMEA1403803
+SAMEA1403804
+SAMEA1403805
+SAMEA1403806
+SAMEA1403807
+SAMEA1403808
+SAMEA1403809
+snp embB 406 G A EMB Resistant
+snp embB 296 N H EMB Uncharacterised
+snp embA -16 C T EMB Resistant
+snp pncA 8 D E PZA Benign
+snp rrs 1401 A G AK Resistant
+snp rrs 1401 A G CAP Resistant
+snp rrs 1401 A G KAN Resistant
+snp rrs 1401 A G SM Uncharacterised
+snp rpoB 45 P S RIF Uncharacterised
+SAMEA1403810
+SAMEA1403811
+SAMEA1403812
+SAMEA1403813
+snp fabG1 -15 C T INH Resistant
+SAMEA1403814
+SAMEA1403815
+SAMEA1403816
+SAMEA1403817
+snp pncA 138 C R PZA Resistant
+SAMEA1403818
+SAMEA1403819
+SAMEA1403820
+snp embB 306 M I EMB Resistant
+snp embB 306 M V EMB Resistant
+snp katG -85 C T INH Benign
+snp rpsA 432 M T PZA Benign
+snp fabG1 -15 C T INH Resistant
+snp rrs 1401 A G AK Resistant
+snp rrs 1401 A G CAP Resistant
+snp rrs 1401 A G KAN Resistant
+snp rrs 1401 A G SM Uncharacterised
+snp rrs 517 C T AK Benign
+snp rrs 517 C T CAP Benign
+snp rrs 517 C T KAN Resistant
+snp rrs 517 C T SM Resistant
+snp rrs 514 A C AK Uncharacterised
+snp rrs 514 A C CAP Uncharacterised
+snp rrs 514 A C KAN Uncharacterised
+snp rrs 514 A C SM Resistant
+snp rpsL 43 K R SM Resistant
+snp rpoB 450 S L RIF Resistant
+snp rpoB 435 D V RIF Resistant
+snp iniA 501 S W EMB Benign
+snp gyrA 91 S P CIP Resistant
+snp gyrA 91 S P MOX Resistant
+snp gyrA 91 S P OFX Resistant
+SAMEA1403821
+SAMEA1403822
+SAMEA1403823
+SAMEA1403824
+SAMEA1403825
+SAMEA1403826
+SAMEA1403827
+SAMEA1403828
+SAMEA1403829
+SAMEA1403830
+SAMEA1403831
+SAMEA1403832
+SAMEA1403833
+SAMEA1403834
+SAMEA1403835
+SAMEA1403836
+SAMEA1403837
+snp rpoB 430 L P RIF Resistant
+snp gyrA 578 R Q OFX Benign
+SAMEA1403838
+SAMEA1403839
+snp embB 406 G A EMB Resistant
+snp eis -10 G A KAN Resistant
+snp katG 315 S T INH Resistant
+snp rpsL 43 K R SM Resistant
+snp rpoB 450 S L RIF Resistant
+SAMEA1403840
+SAMEA1403841
+SAMEA1403842
+SAMEA1403843
+snp embB 354 D A EMB Resistant
+snp rpoB 761 E D RIF Uncharacterised
+snp rpoB 450 S L RIF Resistant
+SAMEA1403844
+snp embB 354 D A EMB Resistant
+snp rrs 517 C T AK Benign
+snp rrs 517 C T CAP Benign
+snp rrs 517 C T KAN Resistant
+snp rrs 517 C T SM Resistant
+snp rpsL 43 K R SM Resistant
+snp rpoB 761 E D RIF Uncharacterised
+snp rpoB 450 S L RIF Resistant
+snp gyrA 94 D G CIP Resistant
+snp gyrA 94 D G MOX Resistant
+snp gyrA 94 D G OFX Resistant
+SAMEA1403845
+SAMEA1403846
+snp rrs 771 G A AK Benign
+snp rrs 771 G A CAP Benign
+snp rrs 771 G A KAN Benign
+snp rrs 771 G A SM Uncharacterised
+snp rrs 753 A C AK Uncharacterised
+snp rrs 753 A C CAP Benign
+snp rrs 753 A C KAN Uncharacterised
+snp rrs 753 A C SM Uncharacterised
+snp rrs 736 A T AK Uncharacterised
+snp rrs 736 A T CAP Benign
+snp rrs 736 A T KAN Uncharacterised
+snp rrs 736 A T SM Uncharacterised
+snp rrs 734 G T AK Uncharacterised
+snp rrs 734 G T CAP Benign
+snp rrs 734 G T KAN Uncharacterised
+snp rrs 734 G T SM Uncharacterised
+snp rrs 728 C T AK Benign
+snp rrs 728 C T CAP Benign
+snp rrs 728 C T KAN Benign
+snp rrs 728 C T SM Uncharacterised
+snp rrs 726 G C AK Uncharacterised
+snp rrs 726 G C CAP Benign
+snp rrs 726 G C KAN Uncharacterised
+snp rrs 726 G C SM Uncharacterised
+snp rrs 712 G A AK Uncharacterised
+snp rrs 712 G A CAP Benign
+snp rrs 712 G A KAN Uncharacterised
+snp rrs 712 G A SM Uncharacterised
+SAMEA1403847
+SAMEA1403848
+SAMEA1403849
+SAMEA1403850
+SAMEA1403851
+SAMEA1403852
+SAMEA1403853
+SAMEA1403854
+SAMEA1403855
+snp embB 306 M I EMB Resistant
+snp eis -10 G A KAN Resistant
+snp pncA 51 H R PZA Benign
+snp katG 315 S T INH Resistant
+snp rpsL 88 K R SM Resistant
+snp rpoB 452 L P RIF Resistant
+snp rpoB 445 H N RIF Resistant
+SAMEA1403856
+SAMEA1403857
+SAMEA1403858
+SAMEA1403859
+SAMEA1403860
+SAMEA1403861
+SAMEA1403862
+SAMEA1403863
+SAMEA1403864
+SAMEA1403865
+snp gyrA 94 D G CIP Resistant
+snp gyrA 94 D G MOX Resistant
+snp gyrA 94 D G OFX Resistant
+SAMEA1403866
+SAMEA1403867
+SAMEA1403868
+SAMEA1403869
+snp embB 306 M V EMB Resistant
+snp embB 306 M V EMB Resistant
+snp eis -10 G A KAN Resistant
+snp pncA -11 A G PZA Resistant
+snp pncA 97 G D PZA Resistant
+snp rrs 1401 A G AK Resistant
+snp rrs 1401 A G CAP Resistant
+snp rrs 1401 A G KAN Resistant
+snp rrs 1401 A G SM Uncharacterised
+snp rrs 514 A C AK Uncharacterised
+snp rrs 514 A C CAP Uncharacterised
+snp rrs 514 A C KAN Uncharacterised
+snp rrs 514 A C SM Resistant
+snp rpsL 43 K R SM Resistant
+snp rpoB 450 S L RIF Resistant
+snp rpoB 435 D V RIF Resistant
+SAMEA1403870
+snp katG 315 S T INH Resistant
+SAMEA1403871
+SAMEA1403872
+SAMEA1403873
+snp pncA 138 C R PZA Resistant
+snp rpsL 43 K R SM Resistant
+snp rpoB 450 S L RIF Resistant
+SAMEA1403874
+SAMEA1403875
+SAMEA1403876
+snp embB 354 D A EMB Resistant
+snp katG 315 S T INH Resistant
+snp rrs 517 C T AK Benign
+snp rrs 517 C T CAP Benign
+snp rrs 517 C T KAN Resistant
+snp rrs 517 C T SM Resistant
+snp rpoB 761 E D RIF Uncharacterised
+snp rpoB 450 S L RIF Resistant
+SAMEA1403877
+SAMEA1403878
+SAMEA1403879
+SAMEA1403880
+SAMEA1403881
+SAMEA1403882
+SAMEA1403883
+SAMEA1403884
+SAMEA1403885
+SAMEA1403886
+snp embB 354 D A EMB Resistant
+snp rrs 517 C T AK Benign
+snp rrs 517 C T CAP Benign
+snp rrs 517 C T KAN Resistant
+snp rrs 517 C T SM Resistant
+snp rpsL 43 K R SM Resistant
+snp rpoB 761 E D RIF Uncharacterised
+snp gyrA 94 D A MOX Resistant
+snp gyrA 94 D A OFX Resistant
+SAMEA1403887
+SAMEA1403888
+SAMEA1403889
+snp embB 406 G A EMB Resistant
+snp eis -10 G A KAN Resistant
+snp katG -85 C T INH Benign
+snp katG 315 S T INH Resistant
+snp rpsA 432 M T PZA Benign
+snp rpsL 43 K R SM Resistant
+snp rpoB 450 S L RIF Resistant
+snp iniA 501 S W EMB Benign
+SAMEA1403890
+SAMEA1403891
+SAMEA1403892
+SAMEA1403893
+SAMEA1403894
+SAMEA1403895
+SAMEA1403896
+snp rpoB 430 L P RIF Resistant
+SAMEA1403897
+SAMEA1403898
+SAMEA1403899
+SAMEA1403900
+SAMEA1403901
+SAMEA1403902
+snp rpoB 452 L P RIF Resistant
+snp rpoB 445 H Y RIF Resistant
+SAMEA1403903
+SAMEA1403904
+SAMEA1403905
+snp gyrA 94 D G CIP Resistant
+snp gyrA 94 D G MOX Resistant
+snp gyrA 94 D G OFX Resistant
+snp gyrA 90 A V CIP Uncharacterised
+snp gyrA 90 A V MOX Resistant
+snp gyrA 90 A V OFX Resistant
+SAMEA1403906
+SAMEA1403907
+SAMEA1403908
+SAMEA1403909
+SAMEA1403910
+SAMEA1403911
+SAMEA1403912
+SAMEA1403913
+SAMEA1403914
+SAMEA1403915
+SAMEA1403916
+SAMEA1403917
+snp rrs 517 C T AK Benign
+snp rrs 517 C T CAP Benign
+snp rrs 517 C T KAN Resistant
+snp rrs 517 C T SM Resistant
+SAMEA1403918
+SAMEA1403919
+SAMEA1403920
+snp embB 306 M I EMB Resistant
+snp embA -16 C T EMB Resistant
+snp eis -10 G A KAN Resistant
+snp pncA 51 H R PZA Benign
+snp pncA 135 T P PZA Resistant
+snp katG 315 S T INH Resistant
+snp fabG1 -15 C T INH Resistant
+snp rpsL 88 K R SM Resistant
+snp rpsL 43 K R SM Resistant
+snp rpoB 452 L P RIF Resistant
+snp rpoB 450 S L RIF Resistant
+snp rpoB 445 H N RIF Resistant
+snp gyrA 94 D G CIP Resistant
+snp gyrA 94 D G MOX Resistant
+snp gyrA 94 D G OFX Resistant
+SAMEA1403921
+SAMEA1403922
+snp pncA -11 A G PZA Resistant
+SAMEA1403923
+SAMEA1403924
+SAMEA1403925
+SAMEA1403926
+SAMEA1403927
+SAMEA1403928
+SAMEA1403929
+SAMEA1403930
+SAMEA1403931
+snp pncA 10 Q P PZA Resistant
+SAMEA1403932
+SAMEA1403933
+SAMEA1403934
+SAMEA1403935
+SAMEA1403936
+SAMEA1403937
+SAMEA1403938
+SAMEA1403939
+SAMEA1403940
+SAMEA1403941
+SAMEA1403942
+SAMEA1403943
+SAMEA1403944
+snp embB 354 D A EMB Resistant
+snp eis -10 G A KAN Resistant
+snp katG 315 S T INH Resistant
+snp rrs 517 C T AK Benign
+snp rrs 517 C T CAP Benign
+snp rrs 517 C T KAN Resistant
+snp rrs 517 C T SM Resistant
+snp rpsL 88 K R SM Resistant
+snp rpoB 761 E D RIF Uncharacterised
+snp gyrB 437 A V OFX Benign
+SAMEA1403945
+SAMEA1403946
+snp embB 497 Q K EMB Resistant
+snp rpoB 450 S L RIF Resistant
+SAMEA1403947
+snp katG 315 S T INH Resistant
+snp rpsL 43 K R SM Resistant
+SAMEA1403948
+SAMEA1403949
+SAMEA1403950
+SAMEA1403951
+SAMEA1403952
+SAMEA1403953
+SAMEA1403954
+SAMEA1403955
+SAMEA1403956
+SAMEA1403957
+SAMEA1403958
+SAMEA1403959
+SAMEA1403960
+SAMEA1403961
+SAMEA1403962
+SAMEA1403963
+SAMEA1403964
+SAMEA1403965
+snp rpsA 432 M T PZA Benign
+snp fabG1 -15 C T INH Resistant
+snp rrs 1401 A G AK Resistant
+snp rrs 1401 A G CAP Resistant
+snp rrs 1401 A G KAN Resistant
+snp rrs 1401 A G SM Uncharacterised
+snp rpoB 450 S L RIF Resistant
+snp rpoB 435 D V RIF Resistant
+snp iniA 501 S W EMB Benign
+snp gyrA 91 S P CIP Resistant
+snp gyrA 91 S P MOX Resistant
+snp gyrA 91 S P OFX Resistant
+SAMEA1403966
+SAMEA1403967
+snp rrs 958 T A AK Uncharacterised
+snp rrs 958 T A CAP Benign
+snp rrs 958 T A KAN Uncharacterised
+snp rrs 958 T A SM Uncharacterised
+snp rrs 948 A T AK Uncharacterised
+snp rrs 948 A T CAP Uncharacterised
+snp rrs 948 A T KAN Uncharacterised
+snp rrs 948 A T SM Uncharacterised
+snp rrs 936 C T AK Uncharacterised
+snp rrs 936 C T CAP Benign
+snp rrs 936 C T KAN Uncharacterised
+snp rrs 936 C T SM Uncharacterised
+snp rrs 899 A G AK Uncharacterised
+snp rrs 899 A G CAP Benign
+snp rrs 899 A G KAN Uncharacterised
+snp rrs 899 A G SM Uncharacterised
+snp rrs 896 G A AK Uncharacterised
+snp rrs 896 G A CAP Benign
+snp rrs 896 G A KAN Uncharacterised
+snp rrs 896 G A SM Uncharacterised
+snp rrs 771 G A AK Benign
+snp rrs 771 G A CAP Benign
+snp rrs 771 G A KAN Benign
+snp rrs 771 G A SM Uncharacterised
+snp rrs 753 A C AK Uncharacterised
+snp rrs 753 A C CAP Benign
+snp rrs 753 A C KAN Uncharacterised
+snp rrs 753 A C SM Uncharacterised
+snp rrs 736 A T AK Uncharacterised
+snp rrs 736 A T CAP Benign
+snp rrs 736 A T KAN Uncharacterised
+snp rrs 736 A T SM Uncharacterised
+snp rrs 728 C T AK Benign
+snp rrs 728 C T CAP Benign
+snp rrs 728 C T KAN Benign
+snp rrs 728 C T SM Uncharacterised
+snp rrs 726 G C AK Uncharacterised
+snp rrs 726 G C CAP Benign
+snp rrs 726 G C KAN Uncharacterised
+snp rrs 726 G C SM Uncharacterised
+snp rrs 712 G A AK Uncharacterised
+snp rrs 712 G A CAP Benign
+snp rrs 712 G A KAN Uncharacterised
+snp rrs 712 G A SM Uncharacterised
+SAMEA1403968
+SAMEA1403969
+SAMEA1403970
+SAMEA1403971
+snp katG -85 C T INH Benign
+SAMEA1403972
+SAMEA1403973
+SAMEA1403974
+snp katG 315 S T INH Resistant
+snp rpoB 452 L P RIF Resistant
+SAMEA1403975
+SAMEA1403976
+SAMEA1403977
+SAMEA1403978
+snp gyrA 94 D G CIP Resistant
+snp gyrA 94 D G MOX Resistant
+snp gyrA 94 D G OFX Resistant
+snp gyrA 94 D A MOX Resistant
+snp gyrA 94 D A OFX Resistant
+snp gyrA 94 D N MOX Resistant
+snp gyrA 94 D N OFX Resistant
+SAMEA1403979
+SAMEA1403980
+SAMEA1403981
+SAMEA1403982
+snp embB 354 D A EMB Resistant
+snp embB 306 M I EMB Resistant
+snp fabG1 -8 T A INH Uncharacterised
+snp rrs 517 C T AK Benign
+snp rrs 517 C T CAP Benign
+snp rrs 517 C T KAN Resistant
+snp rrs 517 C T SM Resistant
+snp rpoB 761 E D RIF Uncharacterised
+snp rpoB 450 S L RIF Resistant
+snp rpoB 435 D Y RIF Benign
+SAMEA1403983
+SAMEA1403984
+SAMEA1403985
+snp embB 497 Q R EMB Resistant
+snp katG 315 S T INH Resistant
+SAMEA1403986
+SAMEA1403987
+SAMEA1403988
+snp rrs 517 C T AK Benign
+snp rrs 517 C T CAP Benign
+snp rrs 517 C T KAN Resistant
+snp rrs 517 C T SM Resistant
+snp rpoB 761 E D RIF Uncharacterised
+SAMEA1403989
+SAMEA1403990
+SAMEA1403991
+SAMEA1403992
+SAMEA1403993
+SAMEA1403994
+snp embB 406 G A EMB Resistant
+snp rmlD 284 T K EMB Benign
+snp eis -10 G A KAN Resistant
+snp pncA 12 D A PZA Resistant
+snp katG -85 C T INH Benign
+snp katG 315 S T INH Resistant
+snp rpsA 432 M T PZA Benign
+snp rpsL 43 K R SM Resistant
+snp rpoB 450 S L RIF Resistant
+snp iniA 501 S W EMB Benign
+SAMEA1403995
+SAMEA1403996
+SAMEA1403997
+SAMEA1403998
+SAMEA1403999
+SAMEA1404000
+snp embB 306 M I EMB Resistant
+snp katG 315 S T INH Resistant
+snp rpsL 43 K R SM Resistant
+snp rpoB 450 S L RIF Resistant
+SAMEA1404001
+SAMEA1404002
+SAMEA1404003
+SAMEA1404004
+SAMEA1404005
+SAMEA1404006
+snp pncA 45 V A PZA Benign
+SAMEA1404007
+snp katG 141 L F INH Resistant
+SAMEA1404008
+snp embB 354 D A EMB Resistant
+snp katG 315 S T INH Resistant
+snp rpoB 761 E D RIF Uncharacterised
+snp rpoB 450 S L RIF Resistant
+SAMEA1404009
+SAMEA1404010
+SAMEA1404011
+SAMEA1404012
+snp gyrA 94 D G CIP Resistant
+snp gyrA 94 D G MOX Resistant
+snp gyrA 94 D G OFX Resistant
+SAMEA1404013
+snp fabG1 24 N S INH Benign
+snp rpsL 43 K R SM Resistant
+SAMEA1404014
+SAMEA1404015
+snp katG 285 G V INH Benign
+snp rpoB 450 S L RIF Resistant
+snp rpoB 445 H D RIF Resistant
+SAMEA1404016
+SAMEA1404017
+SAMEA1404018
+SAMEA1404019
+snp embB 354 D A EMB Resistant
+snp embB 306 M I EMB Resistant
+snp katG 315 S T INH Resistant
+snp rrs 517 C T AK Benign
+snp rrs 517 C T CAP Benign
+snp rrs 517 C T KAN Resistant
+snp rrs 517 C T SM Resistant
+snp rpsL 43 K R SM Resistant
+snp rpoB 761 E D RIF Uncharacterised
+snp rpoB 450 S L RIF Resistant
+snp gyrA 94 D G CIP Resistant
+snp gyrA 94 D G MOX Resistant
+snp gyrA 94 D G OFX Resistant
+SAMEA1404020
+SAMEA1404021
+SAMEA1404022
+snp embB 497 Q R EMB Resistant
+snp embB 296 N H EMB Uncharacterised
+snp embA -12 C T EMB Resistant
+snp eis -10 G A KAN Resistant
+snp pncA 104 S R PZA Resistant
+snp rpsL 88 K R SM Resistant
+snp rpsL 43 K R SM Resistant
+snp rpoB 761 E D RIF Uncharacterised
+SAMEA1404023
+SAMEA1404024
+SAMEA1404025
+SAMEA1404026
+SAMEA1404027
+SAMEA1404028
+snp embB 306 M V EMB Resistant
+snp katG 315 S T INH Resistant
+snp rpoB 450 S L RIF Resistant
+SAMEA1404029
+SAMEA1404030
+snp rpoB 445 H N RIF Resistant
+SAMEA1404031
+SAMEA1404032
+SAMEA1404033
+snp rpsL 43 K R SM Resistant
+SAMEA1404034
+snp ahpC -72 C T INH Resistant
+snp fabG1 -15 C T INH Resistant
+snp rpoB 445 H N RIF Resistant
+SAMEA1404035
+SAMEA1404036
+snp rrs 517 C T AK Benign
+snp rrs 517 C T CAP Benign
+snp rrs 517 C T KAN Resistant
+snp rrs 517 C T SM Resistant
+snp rpoB 761 E D RIF Uncharacterised
+snp rpoB 450 S L RIF Resistant
+SAMEA1404037
+SAMEA1404038
+SAMEA1404039
+SAMEA1404040
+SAMEA1404041
+SAMEA1404042
+SAMEA1404043
+snp katG 315 S T INH Resistant
+SAMEA1404044
+SAMEA1404045
+SAMEA1404046
+SAMEA1404047
+SAMEA1404048
+SAMEA1469485
+snp katG 315 S T INH Resistant
+snp rrs 517 C T AK Benign
+snp rrs 517 C T CAP Benign
+snp rrs 517 C T KAN Resistant
+snp rrs 517 C T SM Resistant
+SAMEA1469486
+SAMEA1469487
+SAMEA1469488
+SAMEA1469489
+SAMEA1469490
+SAMEA1469491
+SAMEA1469492
+snp katG 315 S T INH Resistant
+SAMEA1469493
+SAMEA1469494
+SAMEA1469495
+SAMEA1469496
+SAMEA1469497
+snp fabG1 -15 C T INH Resistant
+SAMEA1469498
+SAMEA1469499
+SAMEA1469500
+SAMEA1469501
+SAMEA1469502
+SAMEA1469503
+SAMEA1469504
+SAMEA1469505
+SAMEA1469506
+SAMEA1469507
+SAMEA1469508
+SAMEA1469509
+snp embB 306 M V EMB Resistant
+snp eis -10 G A KAN Resistant
+snp pncA 57 H R PZA Resistant
+snp fabG1 -15 C T INH Resistant
+snp rpsL 88 K R SM Resistant
+snp rpsL 43 K R SM Resistant
+SAMEA1469510
+snp gyrA 94 D G CIP Resistant
+snp gyrA 94 D G MOX Resistant
+snp gyrA 94 D G OFX Resistant
+snp gyrA 90 A V CIP Uncharacterised
+snp gyrA 90 A V MOX Resistant
+snp gyrA 90 A V OFX Resistant
+SAMEA1469511
+snp rrs 1401 A G AK Resistant
+snp rrs 1401 A G CAP Resistant
+snp rrs 1401 A G KAN Resistant
+snp rrs 1401 A G SM Uncharacterised
+snp gyrA 91 S P CIP Resistant
+snp gyrA 91 S P MOX Resistant
+snp gyrA 91 S P OFX Resistant
+SAMEA1469512
+SAMEA1469513
+SAMEA1469514
+snp embB 406 G D EMB Resistant
+snp embB 354 D A EMB Resistant
+snp rrs 517 C T AK Benign
+snp rrs 517 C T CAP Benign
+snp rrs 517 C T KAN Resistant
+snp rrs 517 C T SM Resistant
+snp rpsL 43 K R SM Resistant
+snp rpoB 761 E D RIF Uncharacterised
+snp rpoB 450 S L RIF Resistant
+snp rpoB 445 H L RIF Resistant
+SAMEA1469515
+SAMEA1469516
+SAMEA1469517
+snp embA -8 C T EMB Uncharacterised
+SAMEA1469518
+snp embA -12 C T EMB Resistant
+SAMEA1469519
+SAMEA1469520
+SAMEA1469521
+SAMEA1469522
+SAMEA1469523
+snp fabG1 -15 C T INH Resistant
+SAMEA1469524
+SAMEA1469525
+SAMEA1469526
+snp embB 306 M I EMB Resistant
+snp rpsL 88 K R SM Resistant
+snp gyrA 94 D A MOX Resistant
+snp gyrA 94 D A OFX Resistant
+SAMEA1469527
+snp rpoB 450 S L RIF Resistant
+SAMEA1469528
+SAMEA1469529
+SAMEA1469530
+snp embA -12 C T EMB Resistant
+snp katG 315 S T INH Resistant
+snp rpoB 761 E D RIF Uncharacterised
+snp rpoB 450 S L RIF Resistant
+SAMEA1469531
+SAMEA1469532
+snp eis -10 G A KAN Resistant
+SAMEA1707113
+SAMEA1707114
+snp rpoB 450 S L RIF Resistant
+SAMEA1707116
+snp embB 354 D A EMB Resistant
+SAMEA1707117
+SAMEA1707118
+SAMEA1707120
+SAMEA1707121
+SAMEA1707123
+snp embB 497 Q R EMB Resistant
+snp katG -85 C T INH Benign
+snp katG 315 S T INH Resistant
+snp rpsA 432 M T PZA Benign
+snp fabG1 -15 C T INH Resistant
+snp rpsL 43 K R SM Resistant
+snp rpoB 445 H L RIF Resistant
+snp iniA 501 S W EMB Benign
+snp gyrA 578 R Q OFX Benign
+SAMEA1707124
+SAMEA1707125
+snp embB 497 Q R EMB Resistant
+SAMEA1707126
+snp gyrA 91 S P CIP Resistant
+snp gyrA 91 S P MOX Resistant
+snp gyrA 91 S P OFX Resistant
+snp gyrA 90 A V CIP Uncharacterised
+snp gyrA 90 A V MOX Resistant
+snp gyrA 90 A V OFX Resistant
+SAMEA1707128
+snp pncA 12 D A PZA Resistant
+snp pncA 139 V A PZA Benign
+snp rpoB 450 S L RIF Resistant
+SAMEA1707129
+snp embB 406 G D EMB Resistant
+snp embB 406 G A EMB Resistant
+snp embB 354 D A EMB Resistant
+snp eis -10 G A KAN Resistant
+snp pncA 180 V G PZA Resistant
+snp fabG1 -15 C T INH Resistant
+snp rrs 517 C T AK Benign
+snp rrs 517 C T CAP Benign
+snp rrs 517 C T KAN Resistant
+snp rrs 517 C T SM Resistant
+snp rpsL 88 K R SM Resistant
+snp rpsL 43 K R SM Resistant
+snp rpoB 761 E D RIF Uncharacterised
+SAMEA1707130
+SAMEA1707131
+snp embB 1024 D N EMB Benign
+snp embB 354 D A EMB Resistant
+snp embB 306 M L EMB Benign
+snp eis -10 G A KAN Resistant
+snp pncA 96 K R PZA Benign
+snp katG -85 C T INH Benign
+snp katG 315 S T INH Resistant
+snp rpsA 432 M T PZA Benign
+snp rrs 517 C T AK Benign
+snp rrs 517 C T CAP Benign
+snp rrs 517 C T KAN Resistant
+snp rrs 517 C T SM Resistant
+snp rpsL 43 K R SM Resistant
+snp rpoB 761 E D RIF Uncharacterised
+snp rpoB 450 S L RIF Resistant
+snp iniA 501 S W EMB Benign
+SAMEA1707132
+snp embB 306 M I EMB Resistant
+snp rrs 1402 C T AK Resistant
+snp rrs 1402 C T CAP Resistant
+snp rrs 1402 C T SM Uncharacterised
+snp rrs 906 A G AK Benign
+snp rrs 906 A G CAP Benign
+snp rrs 906 A G KAN Benign
+snp rpsL 43 K R SM Resistant
+snp rpoB 435 D V RIF Resistant
+SAMEA1707134
+SAMEA1707135
+SAMEA1707137
+snp katG 315 S T INH Resistant
+snp rpsL 43 K R SM Resistant
+SAMEA1707138
+snp embC -100 C T EMB Benign
+SAMEA1707139
+SAMEA1707141
+SAMEA1707142
+SAMEA1707144
+SAMEA1707145
+SAMEA1707146
+SAMEA1707147
+SAMEA1707148
+SAMEA1707149
+SAMEA1707150
+SAMEA1707151
+SAMEA1707152
+SAMEA1707153
+SAMEA1707154
+SAMEA1707156
+SAMEA1707157
+SAMEA1707158
+snp fabG1 -15 C T INH Resistant
+snp rpsL 88 K R SM Resistant
+snp rpsL 43 K R SM Resistant
+SAMEA1707159
+snp katG 315 S T INH Resistant
+snp rpoB 450 S L RIF Resistant
+SAMEA1707160
+SAMEA1707162
+SAMEA1707163
+SAMEA1707164
+SAMEA1707165
+SAMEA1707166
+SAMEA1707167
+SAMEA1707169
+SAMEA1707170
+SAMEA1707171
+snp rpoB 452 L P RIF Resistant
+snp rpoB 430 L P RIF Resistant
+SAMEA1707172
+snp gidB -11 C T SM Benign
+snp gidB 137 R P AK Benign
+snp gidB 137 R P CAP Benign
+snp gidB 137 R P SM Resistant
+snp embB 354 D A EMB Resistant
+snp rrs 517 C T AK Benign
+snp rrs 517 C T CAP Benign
+snp rrs 517 C T KAN Resistant
+snp rrs 517 C T SM Resistant
+snp rpoB 761 E D RIF Uncharacterised
+snp rpoB 450 S L RIF Resistant
+SAMEA1707174
+snp embB 354 D A EMB Resistant
+snp embB 306 M I EMB Resistant
+snp katG 315 S T INH Resistant
+snp rrs 517 C T AK Benign
+snp rrs 517 C T CAP Benign
+snp rrs 517 C T KAN Resistant
+snp rrs 517 C T SM Resistant
+snp rpoB 761 E D RIF Uncharacterised
+snp rpoB 450 S L RIF Resistant
+SAMEA1707175
+SAMEA1707176
+SAMEA1707178
+snp embB 306 M V EMB Resistant
+snp pncA 68 W R PZA Resistant
+snp katG 315 S T INH Resistant
+snp rpsL 43 K R SM Resistant
+snp rpoB 452 L P RIF Resistant
+SAMEA1707179
+snp embB 497 Q R EMB Resistant
+snp embB 306 M I EMB Resistant
+snp eis -12 C T KAN Uncharacterised
+snp rpsL 43 K R SM Resistant
+snp gyrA 90 A V CIP Uncharacterised
+snp gyrA 90 A V MOX Resistant
+snp gyrA 90 A V OFX Resistant
+SAMEA1707180
+SAMEA1707182
+SAMEA1707183
+snp embB 354 D A EMB Resistant
+snp katG 315 S T INH Resistant
+snp rpsA 432 M T PZA Benign
+snp rrs 517 C T AK Benign
+snp rrs 517 C T CAP Benign
+snp rrs 517 C T KAN Resistant
+snp rrs 517 C T SM Resistant
+snp rpoB 761 E D RIF Uncharacterised
+snp rpoB 450 S L RIF Resistant
+snp iniA 501 S W EMB Benign
+SAMEA1707184
+SAMEA1707185
+SAMEA1707186
+snp rpoB 761 E D RIF Uncharacterised
+SAMEA1707187
+SAMEA1707188
+SAMEA1707189
+SAMEA1707191
+SAMEA1707192
+SAMEA1707194
+snp embB 354 D A EMB Resistant
+snp rrs 517 C T AK Benign
+snp rrs 517 C T CAP Benign
+snp rrs 517 C T KAN Resistant
+snp rrs 517 C T SM Resistant
+snp rpoB 450 S L RIF Resistant
+SAMEA1707195
+snp embB 1024 D N EMB Benign
+snp embB 306 M L EMB Benign
+snp eis -10 G A KAN Resistant
+snp pncA 96 K R PZA Benign
+snp rpoB 450 S L RIF Resistant
+SAMEA1707196
+SAMEA1707197
+SAMEA1707198
+snp rpsA 21 D G PZA Benign
+snp rpoB 450 S L RIF Resistant
+snp rpoB 445 H Y RIF Resistant
+SAMEA1707199
+SAMEA1707200
+snp embB 354 D A EMB Resistant
+snp embA 383 P S EMB Uncharacterised
+snp embC 661 L I EMB Uncharacterised
+snp katG -85 C T INH Benign
+snp rpsA 432 M T PZA Benign
+snp embR 239 L V EMB Uncharacterised
+snp rpoB 761 E D RIF Uncharacterised
+snp rpoB 639 E D RIF Uncharacterised
+snp rpoB 388 S L RIF Benign
+snp iniA 501 S W EMB Benign
+SAMEA1707201
+SAMEA1707202
+SAMEA1707203
+SAMEA1707205
+SAMEA1707206
+SAMEA1707208
+SAMEA1707210
+SAMEA1707213
+SAMEA1707215
+SAMEA1707217
+SAMEA1707218
+SAMEA1707221
+SAMEA1707222
+SAMEA1707223
+SAMEA1707225
+SAMEA1707226
+SAMEA1707229
+SAMEA1707230
+SAMEA1707231
+SAMEA1707233
+SAMEA1707234
+SAMEA1707235
+SAMEA1707237
+SAMEA1707239
+SAMEA1707240
+snp rpoB 761 E D RIF Uncharacterised
+SAMEA1707241
+snp embB 306 M I EMB Resistant
+snp embB 306 M V EMB Resistant
+snp gyrA 94 D A MOX Resistant
+snp gyrA 94 D A OFX Resistant
+SAMEA1707242
+snp gyrA 94 D A MOX Resistant
+snp gyrA 94 D A OFX Resistant
+snp gyrA 91 S P CIP Resistant
+snp gyrA 91 S P MOX Resistant
+snp gyrA 91 S P OFX Resistant
+SAMEA1707244
+SAMEA1707246
+SAMEA1707248
+snp katG 315 S T INH Resistant
+snp rpsL 43 K R SM Resistant
+snp rpoB 450 S L RIF Resistant
+SAMEA1707250
+SAMEA1707252
+SAMEA1707253
+SAMEA1707255
+SAMEA1707257
+SAMEA1707258
+snp rpoB 450 S L RIF Resistant
+SAMEA1707260
+SAMEA1707261
+SAMEA1707263
+SAMEA1707264
+SAMEA1707266
+SAMEA1707267
+SAMEA1707269
+snp gyrA 94 D G CIP Resistant
+snp gyrA 94 D G MOX Resistant
+snp gyrA 94 D G OFX Resistant
+SAMEA1707270
+SAMEA1707271
+SAMEA1707272
+SAMEA1707274
+SAMEA1707275
+SAMEA1707277
+SAMEA1707278
+snp rpoB 450 S L RIF Resistant
+snp rpoB 445 H L RIF Resistant
+SAMEA1707279
+SAMEA1707280
+SAMEA1707282
+SAMEA1707284
+SAMEA1707286
+SAMEA1707287
+snp gyrA 90 A V CIP Uncharacterised
+snp gyrA 90 A V MOX Resistant
+snp gyrA 90 A V OFX Resistant
+SAMEA1707288
+snp rpoB 452 L P RIF Resistant
+SAMEA1707290
+SAMEA1707291
+SAMEA1707292
+snp embB 306 M V EMB Resistant
+snp katG 315 S T INH Resistant
+snp rrs 517 C T AK Benign
+snp rrs 517 C T CAP Benign
+snp rrs 517 C T KAN Resistant
+snp rrs 517 C T SM Resistant
+snp rpsL 43 K R SM Resistant
+snp rpoB 450 S L RIF Resistant
+SAMEA1707293
+SAMEA1707295
+SAMEA1707296
+SAMEA1707298
+SAMEA1707299
+SAMEA1707300
+SAMEA1707302
+SAMEA1707304
+SAMEA1707305
+SAMEA1707307
+snp rrs 517 C T AK Benign
+snp rrs 517 C T CAP Benign
+snp rrs 517 C T KAN Resistant
+snp rrs 517 C T SM Resistant
+snp rpsL 43 K R SM Resistant
+SAMEA1707308
+snp eis -10 G A KAN Resistant
+SAMEA1707310
+SAMEA1707311
+SAMEA1707312
+SAMEA1707313
+SAMEA1707315
+SAMEA1707316
+snp eis -12 C T KAN Uncharacterised
+snp gyrA 94 D G CIP Resistant
+snp gyrA 94 D G MOX Resistant
+snp gyrA 94 D G OFX Resistant
+SAMEA1707317
+SAMEA1707318
+SAMEA1707320
+SAMEA1707321
+SAMEA1707322
+snp embB 1024 D N EMB Benign
+snp embB 497 Q R EMB Resistant
+snp ahpC -48 G A INH Benign
+snp rpsL 88 K R SM Resistant
+snp rpsL 43 K R SM Resistant
+snp rpoB 450 S L RIF Resistant
+SAMEA1707323
+snp pncA 133 I T PZA Resistant
+SAMEA1707325
+SAMEA1707327
+SAMEA1707329
+SAMEA1707330
+SAMEA1707331
+SAMEA1707332
+snp katG 315 S T INH Resistant
+SAMEA1707334
+SAMEA1707335
+SAMEA1707337
+SAMEA1707338
+snp rpsL 43 K R SM Resistant
+SAMEA1707339
+SAMEA1707340
+SAMEA1707342
+SAMEA1707344
+snp embB 306 M V EMB Resistant
+SAMEA1707346
+snp rpoB 761 E D RIF Uncharacterised
+SAMEA1707347
+SAMEA1707348
+SAMEA1707349
+snp embB 497 Q R EMB Resistant
+snp embB 296 N H EMB Uncharacterised
+snp eis -10 G A KAN Resistant
+snp pncA 47 T A PZA Resistant
+snp fabG1 -34 C T INH Uncharacterised
+snp rpoB 450 S L RIF Resistant
+SAMEA1707351
+SAMEA1707352
+snp embB 497 Q R EMB Resistant
+snp eis -10 G A KAN Resistant
+snp rrs 517 C T AK Benign
+snp rrs 517 C T CAP Benign
+snp rrs 517 C T KAN Resistant
+snp rrs 517 C T SM Resistant
+SAMEA1707353
+SAMEA1707355
+SAMEA1707356
+SAMEA1707358
+SAMEA1707359
+snp embB 354 D A EMB Resistant
+snp rpoB 761 E D RIF Uncharacterised
+snp rpoB 450 S L RIF Resistant
+snp gyrA 90 A V CIP Uncharacterised
+snp gyrA 90 A V MOX Resistant
+snp gyrA 90 A V OFX Resistant
+SAMEA1707360
+SAMEA1707361
+SAMEA1707362
+SAMEA1707364
+SAMEA1707366
+snp eis -12 C T KAN Uncharacterised
+snp rpsL 43 K R SM Resistant
+SAMEA1707368
+SAMEA1707369
+snp embB 354 D A EMB Resistant
+snp pncA 68 W R PZA Resistant
+snp rrs 517 C T AK Benign
+snp rrs 517 C T CAP Benign
+snp rrs 517 C T KAN Resistant
+snp rrs 517 C T SM Resistant
+snp rpsL 43 K R SM Resistant
+snp rpoB 761 E D RIF Uncharacterised
+snp rpoB 450 S L RIF Resistant
+SAMEA1707370
+SAMEA1707372
+snp gidB -11 C T SM Benign
+snp katG 315 S T INH Resistant
+snp rrs 517 C T AK Benign
+snp rrs 517 C T CAP Benign
+snp rrs 517 C T KAN Resistant
+snp rrs 517 C T SM Resistant
+SAMEA1707373
+SAMEA1707375
+SAMEA1707377
+SAMEA1707379
+SAMEA1707380
+snp rrs 517 C T AK Benign
+snp rrs 517 C T CAP Benign
+snp rrs 517 C T KAN Resistant
+snp rrs 517 C T SM Resistant
+SAMEA1707382
+snp embB 354 D A EMB Resistant
+snp katG 315 S T INH Resistant
+snp rrs 517 C T AK Benign
+snp rrs 517 C T CAP Benign
+snp rrs 517 C T KAN Resistant
+snp rrs 517 C T SM Resistant
+snp rpoB 761 E D RIF Uncharacterised
+SAMEA1707383
+SAMEA1707384
+SAMEA1707385
+snp embB 354 D A EMB Resistant
+snp rrs 517 C T AK Benign
+snp rrs 517 C T CAP Benign
+snp rrs 517 C T KAN Resistant
+snp rrs 517 C T SM Resistant
+snp rpoB 761 E D RIF Uncharacterised
+snp rpoB 450 S L RIF Resistant
+SAMEA1707387
+SAMEA1707388
+SAMEA1707390
+snp gyrA 94 D G CIP Resistant
+snp gyrA 94 D G MOX Resistant
+snp gyrA 94 D G OFX Resistant
+snp gyrA 90 A V CIP Uncharacterised
+snp gyrA 90 A V MOX Resistant
+snp gyrA 90 A V OFX Resistant
+SAMEA1707391
+SAMEA1707393
+SAMEA1707394
+SAMEA1707396
+SAMEA1707397
+SAMEA1707398
+SAMEA1707399
+snp rpoB 450 S L RIF Resistant
+SAMEA1707400
+SAMEA1707401
+SAMEA1707402
+SAMEA1707403
+SAMEA1707404
+SAMEA1707405
+SAMEA1707406
+SAMEA1707407
+snp gidB -11 C T SM Benign
+SAMEA1707408
+SAMEA1707410
+snp rrs 517 C T AK Benign
+snp rrs 517 C T CAP Benign
+snp rrs 517 C T KAN Resistant
+snp rrs 517 C T SM Resistant
+snp gyrA 94 D A MOX Resistant
+snp gyrA 94 D A OFX Resistant
+SAMEA1707411
+SAMEA1707412
+snp embB 354 D A EMB Resistant
+snp rpsL 88 K R SM Resistant
+snp gyrA 94 D A MOX Resistant
+snp gyrA 94 D A OFX Resistant
+SAMEA1707413
+SAMEA1707414
+SAMEA1707415
+SAMEA1707417
+snp embA -16 C G EMB Resistant
+snp rrs 517 C T AK Benign
+snp rrs 517 C T CAP Benign
+snp rrs 517 C T KAN Resistant
+snp rrs 517 C T SM Resistant
+SAMEA1707418
+SAMEA1707419
+SAMEA1707421
+snp gyrA 94 D G CIP Resistant
+snp gyrA 94 D G MOX Resistant
+snp gyrA 94 D G OFX Resistant
+snp gyrA 90 A V CIP Uncharacterised
+snp gyrA 90 A V MOX Resistant
+snp gyrA 90 A V OFX Resistant
+SAMEA1707422
+SAMEA1707424
+snp pncA -11 A G PZA Resistant
+snp gyrA 94 D G CIP Resistant
+snp gyrA 94 D G MOX Resistant
+snp gyrA 94 D G OFX Resistant
+snp gyrA 90 A V CIP Uncharacterised
+snp gyrA 90 A V MOX Resistant
+snp gyrA 90 A V OFX Resistant
+SAMEA1707425
+SAMEA1707426
+SAMEA1707427
+snp gyrA 94 D G CIP Resistant
+snp gyrA 94 D G MOX Resistant
+snp gyrA 94 D G OFX Resistant
+snp gyrA 91 S P CIP Resistant
+snp gyrA 91 S P MOX Resistant
+snp gyrA 91 S P OFX Resistant
+SAMEA1707429
+SAMEA1707431
+SAMEA1707433
+snp katG 315 S T INH Resistant
+SAMEA1707434
+SAMEA1707435
+snp embB 306 M V EMB Resistant
+snp rpsL 88 K R SM Resistant
+SAMEA1707437
+SAMEA1707438
+SAMEA1707440
+SAMEA1707442
+SAMEA1707443
+SAMEA1707445
+SAMEA1707446
+SAMEA1707447
+SAMEA1707448
+SAMEA1707450
+SAMEA1707451
+SAMEA1707452
+SAMEA1707454
+SAMEA1707455
+SAMEA1707457
+SAMEA1707458
+SAMEA1707459
+SAMEA1707460
+SAMEA1707462
+snp embR 239 L V EMB Uncharacterised
+snp rpoB 388 S L RIF Benign
+SAMEA1707464
+SAMEA1707466
+snp rpsL 88 K R SM Resistant
+SAMEA1707467
+SAMEA1707468
+snp rpoB 445 H D RIF Resistant
+SAMEA1707470
+SAMEA1707471
+SAMEA1707473
+SAMEA1707475
+SAMEA1707477
+SAMEA1707478
+SAMEA1707479
+SAMEA1707480
+snp fabG1 81 P A INH Benign
+snp iniA 549 D E EMB Benign
+snp iniA 88 N S EMB Benign
+snp gyrB 532 I T CIP Benign
+SAMEA1707482
+SAMEA1707484
+SAMEA1707486
+SAMEA1707487
+SAMEA1707488
+SAMEA1707490
+snp embB 306 M L EMB Benign
+SAMEA1707491
+SAMEA1707494
+SAMEA1707496
+snp gidB -11 C T SM Benign
+SAMEA1707498
+SAMEA1707500
+SAMEA1707502
+SAMEA1707504
+SAMEA1707505
+SAMEA1707507
+SAMEA1707508
+snp katG 315 S T INH Resistant
+SAMEA1707509
+snp embB 438 A T EMB Benign
+snp katG 315 S T INH Resistant
+snp rpsA 260 V I PZA Resistant
+snp fabG1 -8 T G INH Uncharacterised
+snp rrs 517 C T AK Benign
+snp rrs 517 C T CAP Benign
+snp rrs 517 C T KAN Resistant
+snp rrs 517 C T SM Resistant
+snp rpsL 88 K R SM Resistant
+snp rpoB 445 H Y RIF Resistant
+snp gyrB 276 A V CIP Benign
+SAMEA1707511
+SAMEA1707512
+SAMEA1707513
+SAMEA1707514
+SAMEA1707516
+SAMEA1707518
+SAMEA1707519
+SAMEA1707520
+SAMEA1707521
+snp katG 315 S T INH Resistant
+SAMEA1707523
+SAMEA1707524
+SAMEA1707526
+SAMEA1707527
+SAMEA1707529
+SAMEA1707530
+SAMEA1707532
+SAMEA1707533
+SAMEA1707534
+snp rmlD 284 T K EMB Benign
+snp rpsA 432 M T PZA Benign
+snp iniA 501 S W EMB Benign
+SAMEA1707535
+SAMEA1707536
+SAMEA1707537
+SAMEA1707538
+SAMEA1707539
+snp embC -100 C T EMB Benign
+snp katG -85 C T INH Benign
+snp rpsA 432 M T PZA Benign
+snp iniA 501 S W EMB Benign
+SAMEA1707540
+SAMEA1707541
+snp embB 354 D A EMB Resistant
+snp pncA 68 W R PZA Resistant
+snp katG -85 C T INH Benign
+snp katG 315 S T INH Resistant
+snp rpsA 432 M T PZA Benign
+snp rrs 517 C T AK Benign
+snp rrs 517 C T CAP Benign
+snp rrs 517 C T KAN Resistant
+snp rrs 517 C T SM Resistant
+snp rpoB 761 E D RIF Uncharacterised
+snp rpoB 450 S L RIF Resistant
+snp iniA 501 S W EMB Benign
+SAMEA1707542
+SAMEA1707543
+SAMEA1707544
+SAMEA1707545
+SAMEA1707547
+SAMEA1707548
+SAMEA1707549
+SAMEA1707551
+snp eis -12 C T KAN Uncharacterised
+SAMEA1707552
+snp embB 306 M I EMB Resistant
+SAMEA1707554
+snp katG 315 S T INH Resistant
+snp fabG1 -15 C T INH Resistant
+snp rpoB 430 L P RIF Resistant
+snp iniC 89 T I EMB Benign
+SAMEA1707556
+SAMEA1707557
+SAMEA1707558
+SAMEA1707560
+SAMEA1707561
+snp embB 406 G A EMB Resistant
+snp embB 354 D A EMB Resistant
+snp eis -10 G A KAN Resistant
+snp pncA 180 V G PZA Resistant
+snp rrs 517 C T AK Benign
+snp rrs 517 C T CAP Benign
+snp rrs 517 C T KAN Resistant
+snp rrs 517 C T SM Resistant
+snp rpsL 43 K R SM Resistant
+snp rpoB 761 E D RIF Uncharacterised
+SAMEA1707562
+SAMEA1707564
+SAMEA1707565
+SAMEA1707567
+SAMEA1707569
+snp embB 306 M V EMB Resistant
+snp fabG1 -15 C T INH Resistant
+snp rpsL 43 K R SM Resistant
+snp rpoB 452 L P RIF Resistant
+snp rpoB 445 H N RIF Resistant
+SAMEA1707571
+snp eis -10 G A KAN Resistant
+snp fabG1 -15 C T INH Resistant
+snp rrs 517 C T AK Benign
+snp rrs 517 C T CAP Benign
+snp rrs 517 C T KAN Resistant
+snp rrs 517 C T SM Resistant
+snp rpsL 88 K R SM Resistant
+snp rpoB 761 E D RIF Uncharacterised
+snp gyrA 94 D H CIP Benign
+snp gyrA 94 D H MOX Resistant
+snp gyrA 94 D H OFX Resistant
+SAMEA1707573
+snp embB 1024 D N EMB Benign
+snp eis -12 C T KAN Uncharacterised
+snp rpsL 43 K R SM Resistant
+SAMEA1707574
+SAMEA1707575
+SAMEA1707577
+SAMEA1707579
+SAMEA1963817
+SAMEA1964552
+SAMEA1965399
+SAMEA1968067
+snp embB 406 G A EMB Resistant
+snp eis -10 G A KAN Resistant
+snp pncA 180 V G PZA Resistant
+snp katG 315 S T INH Resistant
+snp rpsL 43 K R SM Resistant
+snp rpoB 450 S L RIF Resistant
+snp gyrA 94 D G CIP Resistant
+snp gyrA 94 D G MOX Resistant
+snp gyrA 94 D G OFX Resistant
+snp gyrA 94 D H CIP Benign
+snp gyrA 94 D H MOX Resistant
+snp gyrA 94 D H OFX Resistant
+SAMEA1968680
+SAMEA1969703
+SAMEA2142569
+SAMEA2142699
+SAMEA2142803
+SAMEA2142871
+SAMEA2142896
+SAMEA2143635
+SAMEA2143857
+SAMEA2144324
+SAMEA2144347
+SAMEA2144579
+SAMEA2144677
+SAMEA2144870
+snp fabG1 24 N S INH Benign
+SAMEA2145397
+SAMEA2145510
+SAMEA2145579
+snp fabG1 -15 C T INH Resistant
+SAMEA2145733
+SAMEA2146182
+SAMEA2146467
+SAMEA2146579
+SAMEA2146605
+SAMEA2146833
+snp embB 306 M V EMB Resistant
+SAMEA2146842
+SAMEA2147081
+SAMEA2147218
+SAMEA2147274
+SAMEA2147661
+SAMEA2147763
+SAMEA2147809
+SAMEA2147861
+SAMEA2148113
+SAMEA2148116
+SAMEA2148141
+snp embB 406 G D EMB Resistant
+snp embB 354 D A EMB Resistant
+snp eis -10 G A KAN Resistant
+snp katG 315 S T INH Resistant
+snp katG 537 K E INH Benign
+snp rrs 517 C T AK Benign
+snp rrs 517 C T CAP Benign
+snp rrs 517 C T KAN Resistant
+snp rrs 517 C T SM Resistant
+snp rpoB 450 S L RIF Resistant
+SAMEA2148550
+snp embB 497 Q K EMB Resistant
+snp katG 315 S T INH Resistant
+snp rpsL 43 K R SM Resistant
+SAMEA2148842
+SAMEA2148929
+SAMEA2149021
+SAMEA2149296
+SAMEA2149968
+snp embB 354 D A EMB Resistant
+SAMEA2150040
+SAMEA2150066
+SAMEA2150123
+SAMEA2150288
+SAMEA2150396
+snp embB 406 G D EMB Resistant
+snp katG 315 S T INH Resistant
+SAMEA2151013
+snp gidB -11 C T SM Benign
+SAMEA2151129
+SAMEA2151588
+snp fabG1 -15 C T INH Resistant
+snp rrs 517 C T AK Benign
+snp rrs 517 C T CAP Benign
+snp rrs 517 C T KAN Resistant
+snp rrs 517 C T SM Resistant
+snp rpoB 761 E D RIF Uncharacterised
+SAMEA2151617
+SAMEA2151720
+SAMEA2152013
+SAMEA2152071
+snp gidB -11 C T SM Benign
+snp embB 354 D A EMB Resistant
+snp katG 315 S T INH Resistant
+snp rrs 517 C T AK Benign
+snp rrs 517 C T CAP Benign
+snp rrs 517 C T KAN Resistant
+snp rrs 517 C T SM Resistant
+snp rpoB 761 E D RIF Uncharacterised
+snp rpoB 450 S L RIF Resistant
+SAMEA2152283
+SAMEA2152601
+SAMEA2152774
+SAMEA2152865
+SAMEA2153697
+SAMEA2154263
+snp katG -85 C T INH Benign
+snp rpsA 432 M T PZA Benign
+snp iniA 501 S W EMB Benign
+SAMEA2154428
+snp embB 306 M V EMB Resistant
+snp eis -10 G A KAN Resistant
+snp rpsL 43 K R SM Resistant
+SAMEA2154487
+snp embB 306 M I EMB Resistant
+snp eis -10 G A KAN Resistant
+snp pncA 51 H R PZA Benign
+snp katG 315 S T INH Resistant
+snp fabG1 -15 C T INH Resistant
+snp rpsL 88 K R SM Resistant
+snp rpoB 452 L P RIF Resistant
+snp rpoB 445 H N RIF Resistant
+SAMEA2154526
+snp katG -85 C T INH Benign
+snp rpsA 432 M T PZA Benign
+snp fabG1 196 E A INH Uncharacterised
+snp embR 7 V G EMB Benign
+snp iniA 501 S W EMB Benign
+SAMEA2154772
+SAMEA2155000
+SAMEA2155226
+snp embB 306 M V EMB Resistant
+snp eis -10 G A KAN Resistant
+snp katG 315 S T INH Resistant
+snp rpsL 43 K R SM Resistant
+snp rpoB 450 S L RIF Resistant
+snp gyrA 94 D G CIP Resistant
+snp gyrA 94 D G MOX Resistant
+snp gyrA 94 D G OFX Resistant
+SAMEA2155336
+SAMEA2155446
+SAMEA2155668
+SAMEA2155875
+SAMEA2156048
+SAMEA2156253
+SAMEA2156263
+SAMEA2156526
+snp rpsL 88 K R SM Resistant
+SAMEA2156559
+SAMEA2156647
+SAMEA2156768
+SAMEA2157023
+SAMEA2157190
+SAMEA2157549
+SAMEA2158273
+SAMEA2158372
+SAMEA2158449
+SAMEA2158825
+SAMEA2158843
+snp embB 306 M I EMB Resistant
+snp pncA 133 I T PZA Resistant
+snp katG 315 S T INH Resistant
+snp rpsL 43 K R SM Resistant
+SAMEA2159009
+snp embB 354 D A EMB Resistant
+snp rrs 517 C T AK Benign
+snp rrs 517 C T CAP Benign
+snp rrs 517 C T KAN Resistant
+snp rrs 517 C T SM Resistant
+snp rpoB 761 E D RIF Uncharacterised
+SAMEA2159252
+snp rpoB 450 S L RIF Resistant
+SAMEA2159399
+SAMEA2159854
+SAMEA2160068
+SAMEA2160469
+snp rpsA 432 M T PZA Benign
+SAMEA2160536
+SAMEA2160557
+snp embB 354 D A EMB Resistant
+snp katG 315 S T INH Resistant
+snp rrs 517 C T AK Benign
+snp rrs 517 C T CAP Benign
+snp rrs 517 C T KAN Resistant
+snp rrs 517 C T SM Resistant
+snp rpoB 761 E D RIF Uncharacterised
+snp rpoB 450 S L RIF Resistant
+SAMEA2161338
+SAMEA2161454
+SAMEA2161485
+snp embB 354 D A EMB Resistant
+snp embA -12 C T EMB Resistant
+snp katG 315 S T INH Resistant
+snp fabG1 -15 C T INH Resistant
+snp rrs 1401 A G AK Resistant
+snp rrs 1401 A G CAP Resistant
+snp rrs 1401 A G KAN Resistant
+snp rrs 1401 A G SM Uncharacterised
+snp rpsL 88 K R SM Resistant
+SAMEA2161629
+snp eis -10 G A KAN Resistant
+SAMEA2161804
+snp embB 306 M V EMB Resistant
+snp rpsL 43 K R SM Resistant
+SAMEA2161870
+SAMEA2161977
+SAMEA2162119
+SAMEA2162283
+snp embB 354 D A EMB Resistant
+snp embB 306 M V EMB Resistant
+snp eis -10 G A KAN Resistant
+snp rrs 517 C T AK Benign
+snp rrs 517 C T CAP Benign
+snp rrs 517 C T KAN Resistant
+snp rrs 517 C T SM Resistant
+snp rpsL 43 K R SM Resistant
+snp rpoB 761 E D RIF Uncharacterised
+snp gyrA 94 D G CIP Resistant
+snp gyrA 94 D G MOX Resistant
+snp gyrA 94 D G OFX Resistant
+SAMEA2162608
+SAMEA2162800
+SAMEA2162835
+SAMEA2162954
+SAMEA2163041
+SAMEA2163362
+SAMEA2163535
+snp embB 354 D A EMB Resistant
+snp katG 315 S T INH Resistant
+snp rrs 125 G A AK Uncharacterised
+snp rrs 125 G A CAP Benign
+snp rrs 125 G A KAN Uncharacterised
+snp rrs 125 G A SM Uncharacterised
+snp rpsL 43 K R SM Resistant
+snp rpoB 450 S L RIF Resistant
+SAMEA2272108
+SAMEA837894
+SAMEA837898
+SAMEA837901
+SAMEA837904
+SAMEA837907
+snp rpoB 430 L P RIF Resistant
+SAMEA837910
+SAMEA837913
+SAMEA837916
+SAMEA837919
+SAMEA837922
+SAMEA837925
+SAMEA837928
+SAMEA837931
+SAMEA837934
+SAMEA837936
+SAMEA837938
+SAMEA837940
+SAMEA837942
+SAMEA837944
+SAMEA837946
+SAMEA837948
+SAMEA837950
+SAMEA837952
+SAMEA837955
+SAMEA837957
+snp embA 639 P S EMB Uncharacterised
+snp embA 468 V A EMB Uncharacterised
+snp embC -20 A C EMB Uncharacterised
+snp fabG1 -15 C T INH Resistant
+SAMEA837959
+SAMEA837961
+SAMEA837963
+SAMEA837965
+SAMEA837967
+snp embB 406 G A EMB Resistant
+snp embB 306 M I EMB Resistant
+snp pncA -11 A G PZA Resistant
+snp gyrA 94 D G CIP Resistant
+snp gyrA 94 D G MOX Resistant
+snp gyrA 94 D G OFX Resistant
+SAMEA837969
+SAMEA837971
+SAMEA837973
+SAMEA837974
+SAMEA837976
+SAMEA837978
+SAMEA837980
+snp embB 13 N S EMB Benign
+snp embA 901 P L EMB Benign
+snp pncA 57 H D PZA Resistant
+snp rpsA 440 A T PZA Benign
+snp rrs 1208 T G SM Benign
+snp iniA 88 N S EMB Benign
+snp gyrA 639 D A OFX Benign
+SAMEA837982
+snp gyrA 94 D A MOX Resistant
+snp gyrA 94 D A OFX Resistant
+SAMEA837983
+SAMEA837985
+SAMEA837987
+SAMEA837989
+SAMEA837991
+SAMEA837992
+SAMEA837994
+SAMEA837996
+SAMEA837998
+SAMEA838000
+SAMEA838002
+SAMEA838004
+SAMEA838006
+SAMEA838007
+SAMEA838009
+SAMEA838011
+SAMEA838013
+SAMEA838015
+SAMEA838018
+SAMEA838020
+SAMEA838022
+SAMEA838024
+SAMEA838026
+SAMEA838028
+SAMEA838030
+SAMEA838032
+snp embA 901 P L EMB Benign
+snp pncA 57 H D PZA Resistant
+snp rpsA 440 A T PZA Benign
+snp rrs 1208 T G SM Benign
+snp iniA 88 N S EMB Benign
+snp gyrA 639 D A OFX Benign
+SAMEA838034
+SAMEA838036
+snp embB 354 D A EMB Resistant
+snp embA -12 C T EMB Resistant
+snp pncA -11 A G PZA Resistant
+snp katG 315 S T INH Resistant
+snp rrs 517 C T AK Benign
+snp rrs 517 C T CAP Benign
+snp rrs 517 C T KAN Resistant
+snp rrs 517 C T SM Resistant
+snp rpoB 761 E D RIF Uncharacterised
+snp rpoB 450 S L RIF Resistant
+snp gyrA 94 D N MOX Resistant
+snp gyrA 94 D N OFX Resistant
+SAMEA838038
+SAMEA838040
+SAMEA838042
+snp gyrA 94 D N MOX Resistant
+snp gyrA 94 D N OFX Resistant
+SAMEA838044
+SAMEA838045
+SAMEA838046
+SAMEA838047
+SAMEA838048
+SAMEA838049
+SAMEA838050
+SAMEA838051
+SAMEA838052
+SAMEA838053
+SAMEA838054
+SAMN00009845
+SAMN00010968
+SAMN00013074
+SAMN00013075
+SAMN00013127
+SAMN00013130
+SAMN00013131
+SAMN00013132
+SAMN00013133
+SAMN00013136
+SAMN00013137
+SAMN00013138
+SAMN00013139
+SAMN00013142
+SAMN00013144
+SAMN00013145
+SAMN00013173
+snp rpsL 88 K T SM Uncharacterised
+snp rpsL 43 K R SM Resistant
+SAMN00013174
+SAMN00013175
+SAMN00013176
+SAMN00013177
+SAMN00013181
+SAMN00013182
+SAMN00013183
+SAMN00013184
+SAMN00013185
+snp rpoB 435 D V RIF Resistant
+SAMN00013186
+SAMN00013187
+SAMN00013188
+SAMN00013190
+SAMN00013193
+SAMN00013194
+SAMN00013195
+SAMN00013305
+SAMN00013307
+SAMN00013322
+SAMN00013325
+SAMN00014678
+SAMN00014847
+SAMN00015142
+SAMN00015144
+SAMN00015145
+SAMN00015176
+SAMN00015177
+snp rrs 1223 A G AK Benign
+snp rrs 1223 A G CAP Benign
+snp rrs 1223 A G KAN Benign
+snp rrs 1223 A G SM Benign
+snp rrs 1217 T A AK Uncharacterised
+snp rrs 1217 T A CAP Uncharacterised
+snp rrs 1217 T A KAN Uncharacterised
+snp rrs 1217 T A SM Uncharacterised
+SAMN00015178
+SAMN00015179
+snp rrs 1223 A G AK Benign
+snp rrs 1223 A G CAP Benign
+snp rrs 1223 A G KAN Benign
+snp rrs 1223 A G SM Benign
+snp rrs 1217 T A AK Uncharacterised
+snp rrs 1217 T A CAP Uncharacterised
+snp rrs 1217 T A KAN Uncharacterised
+snp rrs 1217 T A SM Uncharacterised
+snp rrs 327 T C AK Uncharacterised
+snp rrs 327 T C CAP Uncharacterised
+snp rrs 327 T C KAN Uncharacterised
+snp rrs 327 T C SM Uncharacterised
+SAMN00015180
+SAMN00015181
+SAMN00015182
+SAMN00015206
+SAMN00015208
+SAMN00015209
+snp rrs 1223 A G AK Benign
+snp rrs 1223 A G CAP Benign
+snp rrs 1223 A G KAN Benign
+snp rrs 1223 A G SM Benign
+snp rrs 1217 T A AK Uncharacterised
+snp rrs 1217 T A CAP Uncharacterised
+snp rrs 1217 T A KAN Uncharacterised
+snp rrs 1217 T A SM Uncharacterised
+snp rrs 1208 T A AK Uncharacterised
+snp rrs 1208 T A CAP Benign
+snp rrs 1208 T A KAN Uncharacterised
+snp rrs 1208 T A SM Uncharacterised
+SAMN00015229
+SAMN00015230
+snp rrs 327 T C AK Uncharacterised
+snp rrs 327 T C CAP Uncharacterised
+snp rrs 327 T C KAN Uncharacterised
+snp rrs 327 T C SM Uncharacterised
+SAMN00015286
+SAMN00015341
+snp rrs 982 G T AK Uncharacterised
+snp rrs 982 G T CAP Benign
+snp rrs 982 G T KAN Uncharacterised
+snp rrs 982 G T SM Uncharacterised
+snp rrs 327 T C AK Uncharacterised
+snp rrs 327 T C CAP Uncharacterised
+snp rrs 327 T C KAN Uncharacterised
+snp rrs 327 T C SM Uncharacterised
+SAMN00015343
+SAMN00015344
+SAMN00015345
+SAMN00015346
+SAMN00015347
+SAMN00015348
+snp rrs 327 T C AK Uncharacterised
+snp rrs 327 T C CAP Uncharacterised
+snp rrs 327 T C KAN Uncharacterised
+snp rrs 327 T C SM Uncharacterised
+SAMN00015349
+SAMN00015350
+snp rrs 1223 A G AK Benign
+snp rrs 1223 A G CAP Benign
+snp rrs 1223 A G KAN Benign
+snp rrs 1223 A G SM Benign
+snp rrs 1217 T A AK Uncharacterised
+snp rrs 1217 T A CAP Uncharacterised
+snp rrs 1217 T A KAN Uncharacterised
+snp rrs 1217 T A SM Uncharacterised
+snp rrs 327 T C AK Uncharacterised
+snp rrs 327 T C CAP Uncharacterised
+snp rrs 327 T C KAN Uncharacterised
+snp rrs 327 T C SM Uncharacterised
+SAMN00015361
+SAMN00015362
+SAMN00015363
+SAMN00015364
+SAMN00015365
+SAMN00015369
+SAMN00015370
+SAMN00015371
+SAMN00015372
+SAMN00102898
+SAMN00102899
+SAMN00102900
+SAMN00102901
+SAMN00102902
+SAMN00102920
+SAMN00102922
+SAMN00102923
+SAMN00103054
+SAMN00103231
+SAMN00103232
+SAMN00103233
+SAMN00103234
+SAMN00103235
+SAMN00103236
+SAMN00103237
+SAMN00103238
+SAMN00103239
+SAMN00103240
+SAMN00103241
+SAMN00103242
+SAMN00103286
+SAMN00103288
+SAMN00763683
+SAMN00854527
+SAMN00854528
+SAMN01908743
+SAMN01908744
+SAMN01908745
+SAMN01908746
+SAMN01908747
+snp rrs 406 G A AK Uncharacterised
+snp rrs 406 G A CAP Benign
+snp rrs 406 G A KAN Uncharacterised
+snp rrs 406 G A SM Uncharacterised
+snp rrs 327 T C AK Uncharacterised
+snp rrs 327 T C CAP Uncharacterised
+snp rrs 327 T C KAN Uncharacterised
+snp rrs 327 T C SM Uncharacterised
+SAMN01908748
+SAMN01908749
+SAMN01908750
+snp rrs 1401 A G AK Resistant
+snp rrs 1401 A G CAP Resistant
+snp rrs 1401 A G KAN Resistant
+snp rrs 1401 A G SM Uncharacterised
+snp rrs 327 T C AK Uncharacterised
+snp rrs 327 T C CAP Uncharacterised
+snp rrs 327 T C KAN Uncharacterised
+snp rrs 327 T C SM Uncharacterised
+snp rrs 305 T A AK Uncharacterised
+snp rrs 305 T A CAP Uncharacterised
+snp rrs 305 T A KAN Uncharacterised
+snp rrs 305 T A SM Uncharacterised
+SAMN01908751
+snp embB 354 D A EMB Resistant
+snp embB 306 M L EMB Benign
+snp ahpC -48 G A INH Benign
+snp ahpC -52 C T INH Benign
+snp ahpC -81 C T INH Benign
+SAMN01908752
+snp embB 454 A T EMB Benign
+snp embB 306 M V EMB Resistant
+snp embB 306 M V EMB Resistant
+snp pncA -11 A G PZA Resistant
+snp pncA 8 D G PZA Resistant
+snp pncA 12 D A PZA Resistant
+SAMN01908753
+SAMN01908754
+SAMN01908755
+SAMN01908756
+SAMN01908757
+SAMN01908758
+SAMN01908759
+SAMN01908760
+SAMN01908761
+SAMN01908762
+SAMN01908763
+SAMN01908764
+SAMN01908765
+SAMN01908766
+SAMN01908767
+snp ahpC -52 C T INH Benign
+snp rrs 1401 A G AK Resistant
+snp rrs 1401 A G CAP Resistant
+snp rrs 1401 A G KAN Resistant
+snp rrs 1401 A G SM Uncharacterised
+SAMN01908768
+SAMN01908769
+SAMN01908770
+SAMN01908771
+snp rrs 899 A G AK Uncharacterised
+snp rrs 899 A G CAP Benign
+snp rrs 899 A G KAN Uncharacterised
+snp rrs 899 A G SM Uncharacterised
+snp rrs 897 C T AK Benign
+snp rrs 897 C T CAP Benign
+snp rrs 897 C T KAN Benign
+snp rrs 897 C T SM Uncharacterised
+snp rrs 327 T C AK Uncharacterised
+snp rrs 327 T C CAP Uncharacterised
+snp rrs 327 T C KAN Uncharacterised
+snp rrs 327 T C SM Uncharacterised
+snp rrs 305 T A AK Uncharacterised
+snp rrs 305 T A CAP Uncharacterised
+snp rrs 305 T A KAN Uncharacterised
+snp rrs 305 T A SM Uncharacterised
+SAMN01908772
+SAMN01908773
+SAMN01908774
+snp pncA 180 V F PZA Resistant
+snp gyrA 90 A V CIP Uncharacterised
+snp gyrA 90 A V MOX Resistant
+snp gyrA 90 A V OFX Resistant
+SAMN01908775
+SAMN01908776
+SAMN01908777
+snp embB 1024 D N EMB Benign
+snp embB 406 G D EMB Resistant
+SAMN01908778
+snp gyrA 94 D A MOX Resistant
+snp gyrA 94 D A OFX Resistant
+SAMN01908779
+SAMN01908780
+SAMN01908781
+SAMN01908782
+snp rrs 1050 C T AK Benign
+snp rrs 1050 C T CAP Benign
+snp rrs 1050 C T KAN Benign
+snp rrs 1050 C T SM Benign
+SAMN01908783
+SAMN01908784
+SAMN01908785
+SAMN01908786
+SAMN01908787
+SAMN01908788
+SAMN01908789
+SAMN01908790
+SAMN01908791
+SAMN01908792
+SAMN01908793
+snp gyrA 90 A V CIP Uncharacterised
+snp gyrA 90 A V MOX Resistant
+snp gyrA 90 A V OFX Resistant
+SAMN01908794
+SAMN01908795
+SAMN01908796
+SAMN01908797
+SAMN01908798
+snp gyrA 90 A V CIP Uncharacterised
+snp gyrA 90 A V MOX Resistant
+snp gyrA 90 A V OFX Resistant
+SAMN01908799
+SAMN01908800
+SAMN01908801
+SAMN01908802
+SAMN01908803
+SAMN01908804
+snp embB 406 G D EMB Resistant
+snp ahpC -48 G A INH Benign
+snp gyrA 90 A V CIP Uncharacterised
+snp gyrA 90 A V MOX Resistant
+snp gyrA 90 A V OFX Resistant
+SAMN01908805
+SAMN01908806
+SAMN01908807
+SAMN01908808
+snp ahpC -52 C T INH Benign
+snp ahpC -72 C T INH Resistant
+snp ahpC -81 C T INH Benign
+SAMN01908809
+snp rrs 1401 A G AK Resistant
+snp rrs 1401 A G CAP Resistant
+snp rrs 1401 A G KAN Resistant
+snp rrs 1401 A G SM Uncharacterised
+SAMN01908810
+SAMN01908811
+SAMN01908812
+SAMN01908813
+SAMN01908814
+SAMN01908815
+snp gyrA 94 D A MOX Resistant
+snp gyrA 94 D A OFX Resistant
+snp gyrA 90 A V CIP Uncharacterised
+snp gyrA 90 A V MOX Resistant
+snp gyrA 90 A V OFX Resistant
+SAMN01908816
+SAMN01908817
+SAMN01908818
+SAMN01908819
+SAMN01908820
+snp inhA 194 I T INH Resistant
+SAMN01908821
+SAMN01908822
+SAMN01908823
+SAMN01908824
+SAMN01908825
+snp gyrA 91 S P CIP Resistant
+snp gyrA 91 S P MOX Resistant
+snp gyrA 91 S P OFX Resistant
+snp gyrA 90 A V CIP Uncharacterised
+snp gyrA 90 A V MOX Resistant
+snp gyrA 90 A V OFX Resistant
+SAMN01908826
+SAMN01908827
+SAMN01908828
+SAMN01908829
+SAMN01908830
+SAMN01908831
+snp gyrA 94 D A MOX Resistant
+snp gyrA 94 D A OFX Resistant
+SAMN01908832
+SAMN01908833
+SAMN01908834
+SAMN01908835
+SAMN01908836
+SAMN01908837
+SAMN01908838
+SAMN01908839
+SAMN01908840
+snp embB 406 G D EMB Resistant
+SAMN01908841
+snp embB 406 G D EMB Resistant
+SAMN01908842
+SAMN01908843
+SAMN01908844
+SAMN01908845
+SAMN01908846
+SAMN01908847
+SAMN01908848
+SAMN01908849
+SAMN01908850
+SAMN01908851
+SAMN01908852
+snp fabG1 -8 T A INH Uncharacterised
+snp fabG1 -15 C T INH Resistant
+SAMN01908853
+snp gyrA 94 D A MOX Resistant
+snp gyrA 94 D A OFX Resistant
+snp gyrA 90 A V CIP Uncharacterised
+snp gyrA 90 A V MOX Resistant
+snp gyrA 90 A V OFX Resistant
+SAMN01908854
+SAMN01908855
+SAMN01908856
+SAMN01908857
+SAMN01908858
+SAMN01908859
+SAMN01908860
+SAMN01908861
+snp embA -16 C T EMB Resistant
+SAMN01908862
+snp embB 1024 D N EMB Benign
+snp embB 354 D A EMB Resistant
+snp embB 306 M I EMB Resistant
+SAMN01908863
+SAMN01908864
+snp gidB 92 E G SM Benign
+SAMN01908865
+SAMN01908866
+SAMN01908867
+SAMN01908868
+SAMN01908869
+SAMN01908870
+SAMN01908871
+snp rpoB 435 D Y RIF Benign
+SAMN01908872
+SAMN01908873
+snp embB 497 Q R EMB Resistant
+snp embB 306 M I EMB Resistant
+snp pncA -11 A G PZA Resistant
+snp rpoB 450 S L RIF Resistant
+SAMN01908874
+SAMN01908875
+SAMN01908876
+SAMN01908877
+SAMN01908878
+snp embB 354 D A EMB Resistant
+snp embB 306 M V EMB Resistant
+snp embB 306 M V EMB Resistant
+SAMN01908879
+SAMN01908880
+SAMN01908881
+SAMN01908882
+SAMN01908883
+SAMN01908884
+SAMN01908885
+snp rpoB 562 V A RIF Uncharacterised
+SAMN01908886
+snp gyrA 94 D G CIP Resistant
+snp gyrA 94 D G MOX Resistant
+snp gyrA 94 D G OFX Resistant
+SAMN01908887
+SAMN01908888
+SAMN01908889
+SAMN01908890
+snp katG 315 S T INH Resistant
+snp rpoB 450 S L RIF Resistant
+SAMN01908891
+SAMN01908892
+snp ahpC -81 C T INH Benign
+snp pncA 129 D N PZA Benign
+SAMN01908893
+SAMN01908894
+SAMN01908895
+SAMN01908896
+SAMN01908897
+SAMN01908898
+SAMN01908899
+SAMN01908900
+SAMN01908901
+SAMN01908902
+SAMN01908903
+SAMN02146862
+SAMN02400339
+SAMN02469331
+SAMN02471041
+SAMN02471088
+SAMN02471089
+SAMN02595209
+SAMN02595232
+SAMN02595346
+SAMN03081423
+SAMN04009426
+SAMN04009427
+SAMN04009428
+SAMN04009429
+SAMN04009430
+SAMN04009431
+SAMN04009432
+SAMN04009433
+SAMN04009434
+SAMN04009435
