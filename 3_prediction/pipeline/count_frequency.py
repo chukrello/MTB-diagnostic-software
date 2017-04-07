@@ -1,20 +1,20 @@
-#open file with counting dict mutations
-FILE = 'full_all.txt'
-lines = [line[:-1].split('\t') for line in open(FILE).readlines()]
+# counting frequency of mutations from full file
+# python count_frequency.py *full_file*
+
+import sys
+
+FILE = sys.argv[1]
+lines = [line[:-1].split(',') for line in open(FILE).readlines()]
 
 
 #make dictionary of mutations
 dict_counter = {}
 for line in lines:
     for i in range(1, len(line)):
-        if 'SAM' in line[i]:
-            print(line)
         if line[i] != '' and line[i] not in dict_counter:
             dict_counter[line[i]] = [line[0]]
         elif line[i] != '':
             dict_counter[line[i]].append(line[0])
-
-print(dict_counter)
 
 #write dictionary in array
 mutations_freq = []
@@ -23,7 +23,7 @@ for mut in dict_counter:
     mutations_freq[-1] += dict_counter[mut]
 
 #get phenotype list for statistics
-phenotype_list = [line[:-1].split('\t') for line in open('phenotype_db.tsv').readlines()]
+phenotype_list = [line[:-1].split('\t') for line in open('../../1_input/phenotype.tsv').readlines()]
 
 def GetResistanceByNameAndDrug(name, drug, phenotype_list):
     for el in phenotype_list:
@@ -31,7 +31,7 @@ def GetResistanceByNameAndDrug(name, drug, phenotype_list):
             if drug == 'INH':
                 drug_index = 1
                 return el[drug_index]
-            elif drug == 'RMP':
+            elif drug == 'RIF':
                 drug_index = 2
                 return el[drug_index]
             elif drug == 'EMB':
@@ -40,7 +40,7 @@ def GetResistanceByNameAndDrug(name, drug, phenotype_list):
             elif drug == 'PZA':
                 drug_index = 4
                 return el[drug_index]
-            elif drug == 'SM':
+            elif drug == 'STR':
                 drug_index = 5
                 return el[drug_index]
             elif drug == 'CIP':
@@ -61,16 +61,20 @@ def GetResistanceByNameAndDrug(name, drug, phenotype_list):
             elif drug == 'KAN':
                 drug_index = 11
                 return el[drug_index]
-            elif drug == 'WTF':
+            elif drug == 'WTF': #Prothionamide
                 drug_index = 12
                 return el[drug_index]
             elif drug == 'ETH':
                 drug_index = 13
                 return el[drug_index]
 
+mutations_statistics = []
+
 #calculate statistics
 for i in range(len(mutations_freq)):
+    mutations_statistics.append([mutations_freq[i][0]])
     drug = mutations_freq[i][0].split(' ')[-1]
+
     R = 0
     S = 0
     for sample in mutations_freq[i][2:]:
@@ -79,16 +83,15 @@ for i in range(len(mutations_freq)):
             S += 1
         elif phen_result == 'R':
             R += 1
-    mutations_freq[i].append(R)
-    mutations_freq[i].append(S)
+    mutations_statistics[-1].append(str(R))
+    mutations_statistics[-1].append(str(S))
+
+mutations_statistics.sort(key = lambda mut: float(int(mut[1]))/(int(mut[1]) + int(mut[2])))
 
 file = open('mutation_statistic.tsv', 'w')
 
-for mut in mutations_freq:
-    for el in mut[:-1]:
-        file.write(str(el) + '\t')
-    file.write(str(mut[-1])+'\n')
-
+for mut in mutations_statistics:
+    file.write('\t'.join(mut) + '\n')
 file.close()
 
 
