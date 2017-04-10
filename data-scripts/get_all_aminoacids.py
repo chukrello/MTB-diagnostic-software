@@ -101,7 +101,7 @@ def look_vcf_file(filename, name):
     file = open('../../data/' + HEADER + '/' + name +'.txt', 'w')
 
     info = []
-    raw_data_2 = [[int(line.split('\t')[1]), line.split('\t')[3], line.split('\t')[4]] for line in open(filename).readlines() if line[0] != '#' and float(line.split('\t')[5]) >= QVAL]
+    raw_data_2 = [[int(line.split('\t')[1]), line.split('\t')[3], line.split('\t')[4]] for line in open('../../data/vcfs/' + name + '_h37rv.vcf').readlines() if line[0] != '#' and float(line.split('\t')[5]) >= QVAL]
 
     data = []
     for el in raw_data_2:
