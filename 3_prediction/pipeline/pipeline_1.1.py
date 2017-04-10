@@ -6,10 +6,12 @@ import sys
 
 DICTIONARY = sys.argv[1]
 SUBSET = sys.argv[2]
-HEADER = sys.argv[3]
+DATA = sys.argv[3]
+HEADER = sys.argv[4]
+
 
 print('Building full file')
-os.system('python build_full_file_samn_mutation_list.py ' + SUBSET + ' ' + DICTIONARY + ' ' + HEADER + '_full_file_output.txt')
+os.system('python build_full_file_samn_mutation_list.py ' + SUBSET + ' ' + DICTIONARY + ' ' + DATA + ' ' + HEADER + '_full_file_output.txt')
 print('Counting frequency of mutations')
 os.system('python count_frequency.py ' + HEADER + '_full_file_output.txt ' + HEADER + '_mutations_statistics.tsv')
 print('Generating prediction')

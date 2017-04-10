@@ -12,13 +12,13 @@ from Bio import SeqIO
 from Bio.Seq import Seq
 import sys
 
-
-PATH_to_mutations = '../../data/snps_samples_common_format/'
-PATH_to_fasta = '../../1_input/'
-
 LIST_SAMNS = sys.argv[1]
 DICTIONARY = sys.argv[2]
-OUTPUT = sys.argv[3]
+HEADER = sys.argv[3]
+OUTPUT = sys.argv[4]
+
+PATH_to_mutations = '../../../data/' + HEADER + '/'
+PATH_to_fasta = '../../1_input/'
 
 list_samns = [line[:-1]+'.txt' for line in open(LIST_SAMNS).readlines()]
 dictionary = [line[:-1].split('\t') for line in open(DICTIONARY).readlines()]
