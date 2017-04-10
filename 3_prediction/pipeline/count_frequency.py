@@ -89,7 +89,6 @@ for i in range(len(mutations_freq)):
 
 #extracting zeros
 zeros = [mut for mut in mutations_statistics if mut[1]==mut[2]=='0']
-print(zeros)
 mutations_statistics = [mut for mut in mutations_statistics if mut not in zeros]
 
 mutations_statistics.sort(key = lambda mut: float(int(mut[1]))/(int(mut[1]) + int(mut[2])))
