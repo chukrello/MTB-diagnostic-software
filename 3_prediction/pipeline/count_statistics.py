@@ -218,6 +218,7 @@ def write_numbers(predict_results):
 
 
 predict_results = predict(predict_results, phenotype)
+file.write('\tPPV\tNPV\tSens\tSpec\n')
 write_statistics_values_by_drugs(predict_results, range(11))
 write_common_statistic_values(predict_results, range(11))
 write_numbers(predict_results)
