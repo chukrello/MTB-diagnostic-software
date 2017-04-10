@@ -1,13 +1,18 @@
 # IMPORTANT SCRIPT
 # Converting .vcf format in my format
-# python get_all_aminoacids.py *list_samns*
+# python get_all_aminoacids.py *list_samns* *qval* *n_jobs* *header*
 
 import os
 from Bio import SeqIO
 from Bio.Seq import Seq
 import sys
 
-list_vcfs = [line[:-1] for line in open(sys.argv[1]).readlines()]
+LIST_VCFS = sys.argv[1]
+QVAL = int(sys.argv[2])
+N_JOBS = int(sys.argv[3])
+HEADER = sys.argv[4]
+
+list_vcfs = [line[:-1] for line in open(LIST_VCFS).readlines()]
 
 # getting kuleshov fasta reference
 name,sequence = '',''
@@ -93,10 +98,10 @@ def look_vcf_file(filename, name):
 
     print(name)
 
-    file = open('out/'+name+'.txt', 'w')
+    file = open('../../data/' + HEADER + '/' + name +'.txt', 'w')
 
     info = []
-    raw_data_2 = [[int(line.split('\t')[1]), line.split('\t')[3], line.split('\t')[4]] for line in open(filename).readlines() if line[0] != '#' and float(line.split('\t')[5]) >= 600]
+    raw_data_2 = [[int(line.split('\t')[1]), line.split('\t')[3], line.split('\t')[4]] for line in open(filename).readlines() if line[0] != '#' and float(line.split('\t')[5]) >= QVAL]
 
     data = []
     for el in raw_data_2:
@@ -219,8 +224,8 @@ def get_aminoacids(file):
     filename = file
     look_vcf_file(filename, name)
 
-os.system('mkdir out')
+os.system('mkdir ../../data/' + HEADER)
 from joblib import Parallel, delayed
-Parallel(n_jobs=-1)(delayed(get_aminoacids)(file) for file in list_vcfs)
+Parallel(n_jobs=N_JOBS)(delayed(get_aminoacids)(file) for file in list_vcfs)
 
 print('DONE')
