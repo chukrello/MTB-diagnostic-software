@@ -1,3 +1,7 @@
+#Script analyses mutations and offer new dictionary
+
+import sys
+
 mutations = [line[:-1].split('\t') for line in open('frequency.tsv').readlines()]
 
 bad_mutations = []

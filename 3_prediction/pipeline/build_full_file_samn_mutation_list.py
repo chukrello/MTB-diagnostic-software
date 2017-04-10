@@ -16,9 +16,13 @@ import sys
 PATH_to_mutations = '../../data/snps_samples_common_format/'
 PATH_to_fasta = '../../1_input/'
 
-list_samns = [line[:-1]+'.txt' for line in open(sys.argv[1]).readlines()]
-dictionary = [line[:-1].split('\t') for line in open(sys.argv[2]).readlines()]
-file = open(sys.argv[3], 'w')
+LIST_SAMNS = sys.argv[1]
+DICTIONARY = sys.argv[2]
+OUTPUT = sys.argv[3]
+
+list_samns = [line[:-1]+'.txt' for line in open(LIST_SAMNS).readlines()]
+dictionary = [line[:-1].split('\t') for line in open(DICTIONARY).readlines()]
+file = open(OUTPUT, 'w')
 
 
 #Getting reference ang .gff
@@ -83,7 +87,6 @@ def find_mutations_in_file_by_dict(name, data, dictionary, file):
 # Script run
 
 for name in list_samns:
-    print(name)
     try:
         data = [line[:-1].split('\t') for line in open(PATH_to_mutations+name).readlines()]
     except Exception:

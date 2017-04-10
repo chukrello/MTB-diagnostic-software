@@ -1,9 +1,10 @@
 # counting frequency of mutations from full file
-# python count_frequency.py *full_file*
+# python count_frequency.py *full_file* *otput*
 
 import sys
 
 FILE = sys.argv[1]
+OUTPUT = sys.argv[2]
 lines = [line[:-1].split(',') for line in open(FILE).readlines()]
 
 
@@ -86,9 +87,15 @@ for i in range(len(mutations_freq)):
     mutations_statistics[-1].append(str(R))
     mutations_statistics[-1].append(str(S))
 
-mutations_statistics.sort(key = lambda mut: float(int(mut[1]))/(int(mut[1]) + int(mut[2])))
+#extracting zeros
+zeros = [mut for mut in mutations_statistics if mut[1]==mut[2]=='0']
+print(zeros)
+mutations_statistics = [mut for mut in mutations_statistics if mut not in zeros]
 
-file = open('mutation_statistic.tsv', 'w')
+mutations_statistics.sort(key = lambda mut: float(int(mut[1]))/(int(mut[1]) + int(mut[2])))
+mutations_statistics += zeros
+
+file = open(OUTPUT, 'w')
 
 for mut in mutations_statistics:
     file.write('\t'.join(mut) + '\n')
