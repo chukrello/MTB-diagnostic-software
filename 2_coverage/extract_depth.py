@@ -1,4 +1,7 @@
-# open .detph file
+# open .detph file and cut coordinates of the genes we nees
+#
+
+
 import matplotlib.pyplot as plt
 import numpy as np
 import threading
@@ -6,21 +9,25 @@ import os
 
 list_genes = ['ahpC', 'eis', 'embA', 'embB', 'embC', 'embR', 'fabG1', 'gid', 'gyrA', 'gyrB', 'inhA', 'iniA', 'iniC',
              'katG', 'nat' 'ndh', 'pncA', 'rpoB', 'rpsA', 'rpsL', 'rrs', 'tlyA']
+all_ids = [line[:-1] for line in open('../1_input/subsets/Full_subset.txt').readlines()]
+trace = calculate_trace(list_genes)
+os.system('mkdir coverage_output')
+
 
 # trace
 def calculate_trace(list_genes):
 
-	lines = [[int(line.split('\t')[3]),int(line.split('\t')[4]), line] for line in open('../1_input/AL123456_rev.gff').readlines()]
+    lines = [[int(line.split('\t')[3]),int(line.split('\t')[4]), line] for line in open('../1_input/AL123456_rev.gff').readlines()]
 
-	trace = []
+    trace = []
 
-	for gene in list_genes:
+    for gene in list_genes:
         for line in lines:
-			if gene in line[2]:
-				trace.append([line[0], line[1]])
+            if gene in line[2]:
+                trace.append([line[0], line[1]])
                 break
 
-	return trace
+    return trace
 
 def BinSearchVirt(depth, x):
     i = 0
@@ -36,7 +43,8 @@ def BinSearchVirt(depth, x):
     else:
         return None
 
-def extract_coverage(id, trace, id):
+def extract_coverage(id, trace):
+    print(id)
     PATH = '/export/data/kkuleshov/myc/sra/'
     depth = [[int(line.split('\t')[1]), int(line.split('\t')[2])] for line in open(PATH+ id +'/'+ id +'_h37rv.depth').readlines()]
 
@@ -57,9 +65,5 @@ def extract_coverage(id, trace, id):
     file.close()
 
 
-all_ids = [line[:-1] for line in open('../1_input/susbsets/Full_subset.txt').readlines()]
-trace = calculate_trace(list_genes)
-os.system('mkdir coverage_output')
-
 from joblib import Parallel, delayed
-Parallel(n_jobs=140)(delayed(calculate_average_coverage)(genome) for genome in genome_list)
+Parallel(n_jobs=-1)(delayed(extract_coverage)(id, trace) for id in all_ids)
