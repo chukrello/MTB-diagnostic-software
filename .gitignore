@@ -2,7 +2,6 @@
 .python-version
 .samtools-1.3.1/
 0_archive/
-2_coverage/
 4_minor_variants/
 5_cortex/
 6_phylogeny/
