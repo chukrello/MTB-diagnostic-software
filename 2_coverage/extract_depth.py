@@ -8,7 +8,7 @@ import threading
 import os
 
 list_genes = ['ahpC', 'eis', 'embA', 'embB', 'embC', 'embR', 'fabG1', 'gid', 'gyrA', 'gyrB', 'inhA', 'iniA', 'iniC',
-             'katG', 'nat' 'ndh', 'pncA', 'rpoB', 'rpsA', 'rpsL', 'rrs', 'tlyA']
+             'katG', 'nat', 'ndh', 'pncA', 'rpoB', 'rpsA', 'rpsL', 'rrs', 'tlyA']
 all_ids = [line[:-1] for line in open('../1_input/subsets/Full_subset.txt').readlines()]
 os.system('mkdir coverage_output')
 
@@ -24,7 +24,7 @@ def get_genes_info():
             genes.append(line)
     genes = [[line[:-1].split('\t')[3],line[:-1].split('\t')[4], line[:-1].split('\t')[8].split(' ')[1], line[:-1].split('\t')[6]] for line in genes]
     list_genes = ['ahpC', 'eis', 'embA', 'embB', 'embC', 'embR', 'fabG1', 'gid', 'gyrA', 'gyrB', 'inhA', 'iniA', 'iniC',
-             'katG', 'manB', 'ndh', 'pncA', 'rmlD', 'rpoB', 'rpsA', 'rpsL', 'rrs', 'tlyA']
+             'katG', 'manB', 'nat', 'ndh', 'pncA', 'rmlD', 'rpoB', 'rpsA', 'rpsL', 'rrs', 'tlyA']
     def get_sequence(genes, gene):
         for element in genes:
             if element[2] == gene:
@@ -91,5 +91,10 @@ def extract_coverage(id, trace):
 
 genes = get_genes_info()
 trace = calculate_trace(list_genes, genes)
-from joblib import Parallel, delayed
-Parallel(n_jobs=-1)(delayed(extract_coverage)(id, trace) for id in all_ids)
+
+print(genes['rrs'])
+
+
+
+#from joblib import Parallel, delayed
+#Parallel(n_jobs=-1)(delayed(extract_coverage)(id, trace) for id in all_ids)

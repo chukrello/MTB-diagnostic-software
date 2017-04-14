@@ -11,15 +11,40 @@
 # GENE_PERCENTAGE = sys.argv[5]
 # OUTPUT = sys.argv[6]
 
+from joblib import Parallel, delayed
+import multiprocessing
+
+
+
 FILENAME = 'MEGAFULL_40.txt'
 DICTIONARY = '../dictionaries/Walker_dictionary.txt'
 SUBSET = '../../1_input/subsets/Walker_subset.txt'
 MIN_DEPTH = 5
 GENE_PERCENTAGE = 70
-OUTPUT = 'test.txt'
+OUTPUT = 'test2.txt'
+
+GOOD_DEPTH = 30
+
+
+TEST_NAMES = ['SAMEA2534034',
+'SAMN03647099',
+'SAMN03647103',
+'SAMN03647112',
+'SAMN03647116',
+'SAMN03647122',
+'SAMN03647123',
+'SAMN03647126',
+'SAMN03647145',
+'SAMN03647149',
+'SAMN03647151',
+'SAMN03647155']
+
+
 
 drug_list = ['INH', 'RIF', 'EMB', 'PZA', 'STR', 'CIP', 'MOX', 'OFX', 'AMI', 'CAP', 'KAN', 'PRO', 'ETH']
 available_mutations = [line[:-1].replace('\t', ' ') for line in open(DICTIONARY).readlines()]
+
+#SUBSET CORRECTION
 subset = [line[:-1] for line in open(SUBSET).readlines()]
 data = [line[:-1] for line in open(FILENAME).readlines()]
 
@@ -32,26 +57,50 @@ def get_gene_intervals(dictionary, genes):
         gene_intervals.append([genes[gene][0], genes[gene][1], gene])
 
     return gene_intervals
+
+
+# function for parallel
+def calculate_dict(id):
+    coverage_dict = {}
+    coverage_intervals = []
+
+    coverage_coords = [line[:-1].split(' ') for line  in open('../../../data/coverage_new_format/'+id+'.txt').readlines()]
+
+    for line in coverage_coords:
+
+        if line[0] == 'GOOD':
+            coverage_intervals.append([int(line[1]), int(line[2])])
+        else:
+            coverage_dict[int(line[0])] = int(line[1])
+
+    return [coverage_intervals, coverage_dict]
+
+
 # generate coverage_dictionary
 # coverage_dict[sample_name][coord]
-def get_coverage_dictionary(dictionary, subset):
+def get_coverage_dictionary(subset):
+    
     coverage_dict = {}
+    coverage_intervals = {}
 
-    for id in subset:
-        coverage_dict[id] = {}
-        coverage_coords = [line[:-1].split(' ') for line  in open('../../../data/coverage_locuses/'+id+'.txt').readlines()]
-        for coord in coverage_coords:
-            coverage_dict[id][int(coord[0])] = int(coord[1])
+    results = Parallel(n_jobs=-1)(delayed(calculate_dict)(id) for id in subset)
 
-    return coverage_dict
+    for i in range(len(subset)):
+       coverage_dict[subset[i]] = results[i][1]
+       coverage_intervals[subset[i]] = results[i][0]
+        
+    return [coverage_intervals, coverage_dict]
 
 # check every mutation whether it is covered or not
 # if not, we cannot say S
-def check_dictionary_position_for_coverage(dictionary, coverage_dict, genes, id):
+def check_dictionary_position_for_coverage(dictionary, coverage_dict, coverage_intervals, genes, id):
 
     uncovered_mutations = []
 
     for mutation in dictionary:
+
+        mutation = mutation.split(' ')
+
         if mutation[0] == 'Gene':
             gene = mutation[1]
             pos = int(mutation[2])
@@ -59,18 +108,44 @@ def check_dictionary_position_for_coverage(dictionary, coverage_dict, genes, id)
             if genes[gene][2] == '+':
                 coords = range(genes[gene][0] + (pos-1)*3,genes[gene][0] + (pos-1)*3 + 3)
             else:
-                coords = reange(genes[gene][1] - (pos-1)*3-2,genes[gene][1] - (pos - 1)*3+1)
+                if gene == 'rrs':
+                    coords = [genes[gene][1] - (pos-1)]
+                else:
+                    coords = range(genes[gene][1] - (pos-1)*3-2,genes[gene][1] - (pos - 1)*3+1)
 
             for coord in coords:
+
+                isGood = False
+
+                for interval in coverage_intervals[id]:
+                    if interval[0] <= coord <= interval[1]:
+                        isGood = True
+                        break 
+
+                if isGood == True:
+                    continue
+
                 if coverage_dict[id][coord] <= MIN_DEPTH:
                     uncovered_mutations.append(mutation)
 
         else:
             coord = int(mutation[2])
+            isGood = False
+
+            for interval in coverage_intervals[id]:
+                    if interval[0] <= coord <= interval[1]:
+                        isGood = True
+                        break 
+
+            if isGood == True:
+                continue
 
             if coverage_dict[id][coord] <= MIN_DEPTH:
                     uncovered_mutations.append(mutation)
 
+    # if id in TEST_NAMES:
+    #     print(id)
+    #     print(uncovered_mutations)
 
     uncovered_drugs = list(set([mut[-1] for mut in uncovered_mutations]))
 
@@ -78,26 +153,48 @@ def check_dictionary_position_for_coverage(dictionary, coverage_dict, genes, id)
 
 # check every gene whether it is covered or not
 # if not, we cannot say S
-def check_genes_for_coverage(gene_intervals, coverage_dict, drug_association, id):
+def check_genes_for_coverage(gene_intervals, coverage_dict, coverage_intervals, drug_association, id):
     
     uncovered_genes = []
     uncovered_drugs = []
 
-    for gene_ineterval in gene_intervals:
+    # if id in TEST_NAMES:
+    #     print(id)
+
+    for gene_interval in gene_intervals:
 
         cnt_bad_cov = 0
 
         for i in range(gene_interval[0], gene_interval[1] + 1):
+
+            isGood = False
+
+            for interval in coverage_intervals[id]:
+                if interval[0] <= i <= interval[1]:
+                    isGood = True
+                    break
+
+            if isGood == True:
+                continue
+
             if coverage_dict[id][i] <= MIN_DEPTH:
                 cnt_bad_cov += 1
 
-        percentage = float(cnt_bad_cov)/(gene_interval[1] - gene_interval[0] + 1)
+        bad_percentage = float(cnt_bad_cov)/(gene_interval[1] - gene_interval[0] + 1)
 
-        if percentage <= GENE_PERCENTAGE:
+
+        # if id in TEST_NAMES:
+        #     print(gene_interval[2])
+        #     print(bad_percentage)
+
+        if bad_percentage >= (100 - GENE_PERCENTAGE)/100.0:
             uncovered_genes.append(gene_interval[2])
 
     for gene in uncovered_genes:
         uncovered_drugs += drug_association[gene]
+
+    # if id in TEST_NAMES:
+    #     print(uncovered_genes)
 
     uncovered_drugs = list(set(uncovered_drugs))
 
@@ -146,17 +243,19 @@ def get_genes_info():
     return genes_seqs
 
 
-
+print('genes')
 #start end strand seq
 genes = get_genes_info()
+print('coverage dict')
 # coverage_dict[sample_name][coord]
-coverage_dict = get_coverage_dictionary(available_mutations, subset)
+coverage = get_coverage_dictionary(subset)
+coverage_intervals = coverage[0]
+coverage_dict = coverage[1]
+print('gene intervals')
 # coord1 coord2 gene_name
 gene_intervals = get_gene_intervals(available_mutations, genes)
+print('drug asscociaton')
 drug_association = get_drug_gene_association_from_dictionary(available_mutations, drug_list)
-
-
-print(genes)
 
 prediction = []
 
@@ -169,8 +268,11 @@ for sample_info in data:
 
     if name in subset:
 
-        uncovered_drugs = check_dictionary_position_for_coverage(available_mutations, coverage_dict, genes, name)
-        uncovered_drugs += check_genes_for_coverage(gene_intervals, coverage_dict, drug_association, name)
+        if coverage_dict[name] != {}:
+            uncovered_drugs = check_dictionary_position_for_coverage(available_mutations, coverage_dict, coverage_intervals, genes, name)
+            uncovered_drugs += check_genes_for_coverage(gene_intervals, coverage_dict, coverage_intervals, drug_association, name)
+        else:
+            uncovered_drugs = []
 
         #using new dictionary
         all_mutations = sample_info.split(',')[1:]
@@ -189,7 +291,11 @@ for sample_info in data:
                     break
 
             if isResistant == False:
-                prediction[-1] += [-1]
+                if drug_list[i] in uncovered_drugs:
+                    prediction[-1] += [0]
+                else:
+                    prediction[-1] += [-1]    
+                
 
 
 file = open(OUTPUT, 'w')
