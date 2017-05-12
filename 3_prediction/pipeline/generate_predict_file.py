@@ -2,42 +2,28 @@
 # 1 - resistant, -1 - senstive, 0 - idk
 # generate_predict_file.py *FILENAME_OF_FULL_FILE* *output*
 
-# import sys
-
-# FILENAME = sys.argv[1]
-# DICTIONARY = sys.argv[2]
-# SUBSET = sys.argv[3]
-# MIN_DEPTH = sys.argv[4]
-# GENE_PERCENTAGE = sys.argv[5]
-# OUTPUT = sys.argv[6]
-
+import sys
 from joblib import Parallel, delayed
 import multiprocessing
 
+FILENAME = sys.argv[1]
+DICTIONARY = sys.argv[2]
+SUBSET = sys.argv[3]
+MIN_DEPTH = int(sys.argv[4])
+GENE_PERCENTAGE = int(sys.argv[5])
+OUTPUT = sys.argv[6]
 
 
-FILENAME = 'MEGAFULL_40.txt'
-DICTIONARY = '../dictionaries/Walker_dictionary.txt'
-SUBSET = '../../1_input/subsets/Walker_subset.txt'
-MIN_DEPTH = 5
-GENE_PERCENTAGE = 70
-OUTPUT = 'test2.txt'
+# FOR DEBUGGING
+# FILENAME = 'MEGAFULL_40.txt'
+# DICTIONARY = '../dictionaries/Walker_dictionary.txt'
+# SUBSET = '../../1_input/subsets/Walker_subset.txt'
+# MIN_DEPTH = 5
+# GENE_PERCENTAGE = 70
+# OUTPUT = 'test2.txt'
 
-GOOD_DEPTH = 30
 
-
-TEST_NAMES = ['SAMEA2534034',
-'SAMN03647099',
-'SAMN03647103',
-'SAMN03647112',
-'SAMN03647116',
-'SAMN03647122',
-'SAMN03647123',
-'SAMN03647126',
-'SAMN03647145',
-'SAMN03647149',
-'SAMN03647151',
-'SAMN03647155']
+TEST_NAMES = []
 
 
 
