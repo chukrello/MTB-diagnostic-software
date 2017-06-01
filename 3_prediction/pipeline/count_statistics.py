@@ -68,7 +68,7 @@ def predict(predict_results, phenotype):
 				if phen[0] == gen[0]:
 					if phen[i] == 1:
 						if gen[i] == 1:
-							predict_results[i-1][3] += 1
+							predict_results[i - 1][3] += 1
 						elif gen[i] == -1:
 							predict_results[i - 1][5] += 1
 						else:
