@@ -1,13 +1,8 @@
-#-*- coding: utf-8 -*-
 
 import sys, os, argparse, subprocess 
 import csv
 import logging
 from collections import defaultdict
-
-'''
-Настройки подключения к базе данных
-'''
 
 parser = argparse.ArgumentParser(description='Frebayes launch and procces files')
 parser.add_argument('-f','--bam_file', help='Path to file of bam format', required=True)
