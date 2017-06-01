@@ -1,12 +1,4 @@
 #!/export/home/kkuleshov/.pyenv/versions/2.7.11/bin/python2.7
-#-*- coding: utf-8 -*-
-"""
-Удалить
-find /export/data/kkuleshov/myc/ -name "*vcf*" -type f -delete
-find /export/data/kkuleshov/myc/ -name "*.depth" -type f -delete
-
-UPDATE `sample_read` SET `Snp_call` = NULL;
-"""
 
 import sys, os, argparse, subprocess 
 from joblib import Parallel, delayed
@@ -30,7 +22,7 @@ def freebayes_in_parrallel(id):
     bam = path_to_bams + id + '_h37rv.bam'
 
     c = 'python launch_freebayes.py -f ' + bam
-    print c
+    print(c)
     subprocess.call(c, shell=True)
     # c = 'python launch_depth.py -f ' + bam
     # print c
