@@ -1,13 +1,22 @@
 # Full pipeline for predicting
 # pipeline.py *dict* *subset*
 
-import os
-import sys
+import os, sys, argparse, subprocess
 
-DICTIONARY = sys.argv[1]
-SUBSET = sys.argv[2]
-DATA = sys.argv[3]
-HEADER = sys.argv[4]
+parser = argparse.ArgumentParser(description='Pipeline for generating prediction without precalculating FULL file.')
+
+parser.add_argument('-d','--dictionary', help='Mutations dictionary.', required=True)
+parser.add_argument('-s','--subset', help='Subset of samples for generating prediction.', default='../../1_input/subsets/Full_subset.txt')
+parser.add_argument('-fh','--full_header', help='Header for the full file.', required=True)
+parser.add_argument('-h','--header', help='Header for the filename.', required=True)
+
+args = parser.parse_args()
+
+
+DICTIONARY = args.dictionary
+SUBSET = args.subset
+DATA = args.full_header
+HEADER = args.header
 
 
 print('Building full file')

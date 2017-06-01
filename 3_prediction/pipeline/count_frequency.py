@@ -1,10 +1,18 @@
 # counting frequency of mutations from full file
 # python count_frequency.py *full_file* *otput*
 
-import sys
+import sys, os, argparse, subprocess 
 
-FILE = sys.argv[1]
-OUTPUT = sys.argv[2]
+parser = argparse.ArgumentParser(description='Counts frequency of mutations for FULL file. FULL file is the file where contatins every drug-resistant mutation for each sample.')
+
+parser.add_argument('-f','--full_file', help='FULL file', default='MEGAFULL_40.txt')
+parser.add_argument('-o','--output', help='Output file', default='MEGAFULL_40_freq.txt')
+
+args = parser.parse_args()
+
+FILE = args.full_file
+OUTPUT = args.output
+
 lines = [line[:-1].split(',') for line in open(FILE).readlines()]
 
 
@@ -99,7 +107,3 @@ file = open(OUTPUT, 'w')
 for mut in mutations_statistics:
     file.write('\t'.join(mut) + '\n')
 file.close()
-
-
-#'rpoB H445Y RIF'
-#SAMEA1018864
