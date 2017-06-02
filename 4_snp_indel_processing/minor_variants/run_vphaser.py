@@ -9,7 +9,7 @@ parser.add_argument('-j','--jobs', help='Number of jobs', default='1')
 
 args = parser.parse_args()
 
-ids = args.list
+list = args.list
 path_to_bams = args.path
 jobs = int(args.jobs)
 
@@ -34,6 +34,6 @@ def run_vphaser(id):
 		a = 1
 
 
-from joblib import Parallel, delayed
 
-Parallel(n_jobs=40)(delayed(run_vphaser)(id) for id in ids)
+ids = [line[:-1] for line in open(list).readlines()]
+Parallel(n_jobs=jobs)(delayed(run_vphaser)(id) for id in ids)
