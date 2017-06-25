@@ -111,7 +111,9 @@ def check_dictionary_position_for_coverage(dictionary, coverage_dict, coverage_i
                 if isGood == True:
                     continue
 
-                if coverage_dict[id][coord] <= MIN_DEPTH:
+                if coord not in coverage_dict[id]:
+                    uncovered_mutations.append(mutation)
+                elif coverage_dict[id][coord] <= MIN_DEPTH:
                     uncovered_mutations.append(mutation)
 
         else:
@@ -126,8 +128,10 @@ def check_dictionary_position_for_coverage(dictionary, coverage_dict, coverage_i
             if isGood == True:
                 continue
 
-            if coverage_dict[id][coord] <= MIN_DEPTH:
-                    uncovered_mutations.append(mutation)
+            if coord not in coverage_dict[id]:
+                uncovered_mutations.append(mutation)
+            elif coverage_dict[id][coord] <= MIN_DEPTH:
+                uncovered_mutations.append(mutation)
 
     # if id in TEST_NAMES:
     #     print(id)
@@ -163,7 +167,9 @@ def check_genes_for_coverage(gene_intervals, coverage_dict, coverage_intervals, 
             if isGood == True:
                 continue
 
-            if coverage_dict[id][i] <= MIN_DEPTH:
+            if i not in coverage_dict[id]:
+                cnt_bad_cov += 1
+            elif coverage_dict[id][i] <= MIN_DEPTH:
                 cnt_bad_cov += 1
 
         bad_percentage = float(cnt_bad_cov)/(gene_interval[1] - gene_interval[0] + 1)
@@ -214,7 +220,7 @@ def get_genes_info():
             genes.append(line)
     genes = [[line[:-1].split('\t')[3],line[:-1].split('\t')[4], line[:-1].split('\t')[8].split(' ')[1], line[:-1].split('\t')[6]] for line in genes]
     list_genes = ['ahpC', 'eis', 'embA', 'embB', 'embC', 'embR', 'fabG1', 'gid', 'gyrA', 'gyrB', 'inhA', 'iniA', 'iniC',
-             'katG', 'manB', 'ndh', 'pncA', 'rmlD', 'rpoB', 'rpsA', 'rpsL', 'rrs', 'tlyA']
+             'katG', 'manB', 'ndh', 'pncA', 'rmlD', 'rpoB', 'rpsA', 'rpsL', 'rrs', 'tlyA', 'ethR', 'fpbC', 'iniB', 'kasA', 'ethA', 'fabD', 'efpA', 'thyA', 'panD', 'accD6', 'fbpC', 'nat', 'folC', 'rrl', 'rpoC', 'ribD', 'rplC']
     def get_sequence(genes, gene):
         for element in genes:
             if element[2] == gene:

@@ -25,7 +25,7 @@ GENE_PERCENTAGE = args.gene_percentage
 
 os.system('mkdir ../output/pipeline/'+HEADER)
 print('Generating prediction')
-os.system('python generate_predict_file.py MEGAFULL.txt ' + DICTIONARY + ' ' + SUBSET + ' ' + MIN_DEPTH + ' ' + GENE_PERCENTAGE + ' ../output/pipeline/' + HEADER + '/' + HEADER + '_predict_file.txt')
+os.system('python generate_predict_file.py MEGAFULL_40.txt ' + DICTIONARY + ' ' + SUBSET + ' ' + MIN_DEPTH + ' ' + GENE_PERCENTAGE + ' ../output/pipeline/' + HEADER + '/' + HEADER + '_predict_file.txt')
 print('Calculating statistics')
 os.system('python count_statistics.py ../output/pipeline/'+HEADER+'/'+ HEADER + '_predict_file.txt ../output/pipeline/' +HEADER+'/' + HEADER + '_out_stats.tsv')
 
