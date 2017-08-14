@@ -50,7 +50,7 @@ def calculate_dict(id):
     coverage_dict = {}
     coverage_intervals = []
 
-    coverage_coords = [line[:-1].split(' ') for line  in open('../../../data/coverage_new_format/'+id+'.txt').readlines()]
+    coverage_coords = [line[:-1].split(' ') for line  in open('../../../data/coverage_files/coverage_new_format/'+id+'.txt').readlines()]
 
     for line in coverage_coords:
 

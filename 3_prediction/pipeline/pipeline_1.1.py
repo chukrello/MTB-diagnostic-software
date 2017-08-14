@@ -8,7 +8,7 @@ parser = argparse.ArgumentParser(description='Pipeline for generating prediction
 parser.add_argument('-d','--dictionary', help='Mutations dictionary.', required=True)
 parser.add_argument('-s','--subset', help='Subset of samples for generating prediction.', default='../../1_input/subsets/Full_subset.txt')
 parser.add_argument('-fh','--full_header', help='Header for the full file.', required=True)
-parser.add_argument('-h','--header', help='Header for the filename.', required=True)
+parser.add_argument('-head','--header', help='Header for the filename.', required=True)
 
 args = parser.parse_args()
 

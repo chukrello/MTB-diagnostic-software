@@ -1,7 +1,7 @@
 # Script build file with mutations identified in samns
 #
 # Output format:
-# SAM___: mut1 \t mut2 \t ....
+# SAM___, mut1, mut2, ....
 #
 # Input line:
 # build_full_samn_mutation_list.py list_samns dictionary output_file
